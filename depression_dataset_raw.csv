@@ -1,0 +1,810 @@
+Timestamp,Age:,Gender:,How often do you feel stressed?,How often do you feel anxious or worried?,How often do you feel sad or low?,Do you feel overwhelmed by daily tasks?,Do you have difficulty concentrating?,How often do you overthink situations?,Do you experience mood swings?,How many hours do you sleep daily?,How often do you feel tired or low on energy?,Do you feel supported by people around you?,How often do you socialize with others?,How do you usually cope with stress?,How would you rate your overall mental well-being?
+2026/03/24 7:37:41 PM GMT+5:30,21,Female,Always,Often,Often,Sometimes,Sometimes,Often,Yes,05-Jun,Sometimes,Yes,Weekly,Music/Entertainment,1
+2026/03/24 7:41:03 PM GMT+5:30,21,Male,Sometimes,Sometimes,Often,No,Sometimes,Always,Sometimes,07-Aug,Sometimes,Yes,Daily,Sleeping,4
+2026/03/24 7:41:38 PM GMT+5:30,22,Female,Never,Sometimes,Sometimes,Sometimes,Never,Rarely,Yes,More than 8,Sometimes,Yes,Daily,Talking to someone,5
+2026/03/24 7:47:09 PM GMT+5:30,21,Male,Always,Never,Always,Yes,Sometimes,Often,Yes,More than 8,Never,No,Weekly,Talking to someone,3
+2026/03/24 7:48:26 PM GMT+5:30,22,Male,Often,Often,Often,No,Sometimes,Sometimes,No,05-Jun,Sometimes,Yes,Daily,Music/Entertainment,5
+2026/03/24 7:57:47 PM GMT+5:30,19,Female,Sometimes,Sometimes,Always,Sometimes,Sometimes,Always,Yes,05-Jun,Always,No,Daily,Sleeping,3
+2026/03/24 8:01:24 PM GMT+5:30,20,Female,Always,Always,Often,Yes,Often,Always,Sometimes,05-Jun,Always,No,Rarely,Avoiding problems,2
+2026/03/24 8:01:35 PM GMT+5:30,21,Female,Always,Always,Always,Often,Often,Always,Often,Less than 5 hours,Always,No,Rarely,I don’t cope well,Very Poor
+2026/03/24 8:08:25 PM GMT+5:30,18,Female,Often,Sometimes,Often,Sometimes,Always,Sometimes,Yes,05-Jun,Sometimes,Yes,Daily,Music/Entertainment,4
+2026/03/24 8:19:19 PM GMT+5:30,20,Male,Sometimes,Sometimes,Sometimes,No,Sometimes,Sometimes,No,More than 8,Sometimes,Yes,Weekly,Music/Entertainment,5
+2026/03/24 8:31:25 PM GMT+5:30,20,Female,Always,Always,Always,Often,Often,Always,Often,Less than 5 hours,Always,No,Rarely,I don’t cope well,Very Poor
+2026/03/24 8:33:51 PM GMT+5:30,21,Female,Sometimes,Often,Often,Sometimes,Always,Always,Yes,05-Jun,Sometimes,Yes,Weekly,Music/Entertainment,3
+2026/03/24 8:47:05 PM GMT+5:30,20,Female,Always,Often,Always,Yes,Always,Always,Yes,Less than 5,Sometimes,Yes,Never,Sleeping,1
+2026/03/24 9:00:48 PM GMT+5:30,19,Female,Always,Always,Always,No,Sometimes,Often,Yes,07-Aug,Often,Yes,Rarely,Sleeping,4
+2026/03/24 9:07:39 PM GMT+5:30,22,Female,Sometimes,Sometimes,Sometimes,Sometimes,Sometimes,Sometimes,Yes,05-Jun,Sometimes,Yes,Daily,Music/Entertainment,3
+2026/03/24 9:14:04 PM GMT+5:30,22,Female,Often,Often,Often,Sometimes,Sometimes,Always,Yes,More than 8,Often,Sometimes,Rarely,Sleeping,2
+2026/03/24 9:44:12 PM GMT+5:30,22,Female,Sometimes,Sometimes,Sometimes,Sometimes,Often,Often,Sometimes,Less than 5,Sometimes,Yes,Daily,Other,4
+2026/03/24 9:44:27 PM GMT+5:30,22,Female,Often,Often,Sometimes,Sometimes,Sometimes,Often,Yes,05-Jun,Sometimes,Yes,Daily,Talking to someone,3
+2026/03/24 10:34:04 PM GMT+5:30,Manasi Tiwari ,Female,Sometimes,Sometimes,Sometimes,Sometimes,Often,Sometimes,No,05-Jun,Sometimes,Yes,Daily,Music/Entertainment,4
+2026/03/25 12:01:13 AM GMT+5:30,20,Female,Sometimes,Sometimes,Sometimes,Sometimes,Sometimes,Often,Yes,05-Jun,Often,Yes,Daily,Sleeping,4
+2026/03/25 8:13:40 AM GMT+5:30,21,Prefer not to say,Always,Often,Often,Yes,Always,Always,Yes,05-Jun,Always,Sometimes,Rarely,Music/Entertainment,3
+2026/03/25 4:31:41 PM GMT+5:30,20,Female,Sometimes,Sometimes,Sometimes,No,Sometimes,Often,Yes,05-Jun,Sometimes,Yes,Daily,Talking to someone,4
+2026/03/26 9:29:57 AM GMT+5:30,20,Female,Often,Often,Often,Yes,Sometimes,Often,Yes,Less than 5,Often,No,Daily,Talking to someone,3
+2026/03/27 11:13:21 AM GMT+5:30,21,Female,Always,Always,Always,Often,Often,Always,Often,Less than 5 hours,Always,No,Rarely,I don’t cope well,Very Poor
+2026/03/29 7:47:02 AM GMT+5:30,20,Male,Never,Sometimes,,Yes,Sometimes,Sometimes,No,05-Jun,,,Weekly,Talking to someone,4
+2026/03/29 7:49:20 AM GMT+5:30,99,Female,Often,Often,Never,Yes,Always,Often,,Less than 5,Often,No,Rarely,Talking to someone,1
+2026/03/29 7:53:11 AM GMT+5:30,30,Female,Sometimes,Sometimes,Never,Yes,Often,Always,No,05-Jun,Always,No,Weekly,Avoiding problems,3
+2026/03/29 7:53:11 AM GMT+5:30,47,Female,Often,Sometimes,Often,Yes,Always,Sometimes,Sometimes,07-Aug,Always,Yes,Rarely,Exercise,3
+2026/03/29 7:53:11 AM GMT+5:30,41,Male,Always,Always,Never,Yes,Often,Always,No,Less than 5,Often,No,Weekly,Sleeping,3
+2026/03/29 7:53:11 AM GMT+5:30,39,Male,Always,Always,Always,Often,Often,Always,Often,Less than 5 hours,Always,No,Rarely,I don’t cope well,Very Poor
+2026/03/29 7:53:11 AM GMT+5:30,25,Male,Always,Always,Always,Often,Often,Always,Often,Less than 5 hours,Always,No,Rarely,I don’t cope well,Very Poor
+2026/03/29 7:53:12 AM GMT+5:30,19,Female,Always,Always,Always,Often,Often,Always,Often,Less than 5 hours,Always,No,Rarely,I don’t cope well,Very Poor
+2026/03/29 7:53:12 AM GMT+5:30,32,Male,Often,Often,Always,Sometimes,Sometimes,Sometimes,No,07-Aug,Often,Yes,Weekly,Other,4
+2026/03/29 7:53:12 AM GMT+5:30,43,Prefer not to say,Always,Always,Always,Often,Often,Always,Often,Less than 5 hours,Always,No,Rarely,I don’t cope well,Very Poor
+2026/03/29 7:53:12 AM GMT+5:30,54,Female,Sometimes,Often,Often,Sometimes,Sometimes,Often,No,07-Aug,Always,Yes,Never,Music/Entertainment,4
+2026/03/29 7:53:12 AM GMT+5:30,24,Female,Sometimes,Never,Never,Sometimes,Always,Always,No,More than 8,Often,Yes,Never,Sleeping,3
+2026/03/29 7:53:12 AM GMT+5:30,53,Female,Sometimes,Sometimes,Sometimes,No,Sometimes,Sometimes,Yes,More than 8,Often,Yes,Rarely,Music/Entertainment,3
+2026/03/29 7:53:12 AM GMT+5:30,24,Prefer not to say,Sometimes,Never,Often,Sometimes,Often,Rarely,Sometimes,05-Jun,Often,No,Weekly,Talking to someone,2
+2026/03/29 7:53:12 AM GMT+5:30,56,Male,Always,Often,Sometimes,Sometimes,Never,Often,Yes,07-Aug,Often,Yes,Weekly,Talking to someone,5
+2026/03/29 7:53:13 AM GMT+5:30,21,Female,Always,Always,Always,Often,Often,Always,Often,Less than 5 hours,Always,No,Rarely,I don’t cope well,Very Poor
+2026/03/29 7:53:13 AM GMT+5:30,23,Prefer not to say,Always,Never,Sometimes,Sometimes,Sometimes,Rarely,Yes,More than 8,Always,Yes,Weekly,Other,5
+2026/03/29 7:53:13 AM GMT+5:30,22,Male,Sometimes,Often,Often,Yes,Sometimes,Always,Yes,07-Aug,Often,Yes,Weekly,Music/Entertainment,5
+2026/03/29 7:53:14 AM GMT+5:30,52,Prefer not to say,Sometimes,Always,Often,Sometimes,Often,Often,No,07-Aug,Always,No,Rarely,Avoiding problems,2
+2026/03/29 7:53:14 AM GMT+5:30,30,Male,Sometimes,Often,Often,No,Sometimes,Always,Sometimes,07-Aug,Always,Yes,Daily,Talking to someone,4
+2026/03/29 7:53:14 AM GMT+5:30,24,Female,Sometimes,Often,Sometimes,Sometimes,Often,Sometimes,No,Less than 5,Sometimes,Yes,Weekly,Avoiding problems,2
+2026/03/29 7:53:14 AM GMT+5:30,20,Prefer not to say,Always,Often,Often,Yes,Never,Sometimes,No,Less than 5,Often,Yes,Rarely,Music/Entertainment,4
+2026/03/29 7:53:14 AM GMT+5:30,33,Male,Sometimes,Always,Often,No,Often,Rarely,Sometimes,07-Aug,Always,No,Daily,Talking to someone,4
+2026/03/29 7:53:14 AM GMT+5:30,42,Male,Always,Sometimes,Sometimes,Sometimes,Often,Sometimes,Yes,07-Aug,Sometimes,No,Never,Music/Entertainment,4
+2026/03/29 7:53:14 AM GMT+5:30,21,Female,Sometimes,Sometimes,Never,Yes,Never,Often,Sometimes,More than 8,Sometimes,Yes,Rarely,Avoiding problems,1
+2026/03/29 7:53:14 AM GMT+5:30,25,Female,Always,Always,Always,Often,Often,Always,Often,Less than 5 hours,Always,No,Rarely,I don’t cope well,Very Poor
+2026/03/29 7:53:14 AM GMT+5:30,46,Prefer not to say,Always,Sometimes,Never,Yes,Sometimes,Often,No,More than 8,Sometimes,Yes,Daily,Music/Entertainment,5
+2026/03/29 7:53:15 AM GMT+5:30,24,Male,Always,Sometimes,Always,Sometimes,Sometimes,Often,Yes,05-Jun,Always,Yes,Weekly,Exercise,4
+2026/03/29 7:53:15 AM GMT+5:30,51,Male,Often,Sometimes,Never,Yes,Sometimes,Sometimes,Yes,07-Aug,Never,Yes,Weekly,Music/Entertainment,3
+2026/03/29 7:53:15 AM GMT+5:30,45,Male,Sometimes,Always,Sometimes,No,Often,Often,No,07-Aug,Never,No,Weekly,Sleeping,2
+2026/03/29 7:53:15 AM GMT+5:30,30,Female,Always,Always,Always,Often,Often,Always,Often,Less than 5 hours,Always,No,Rarely,I don’t cope well,Very Poor
+2026/03/29 7:53:15 AM GMT+5:30,23,Prefer not to say,Always,Sometimes,Sometimes,No,Often,Often,No,Less than 5,Often,Yes,Weekly,Exercise,3
+2026/03/29 7:53:15 AM GMT+5:30,23,Prefer not to say,Often,Sometimes,Never,No,Sometimes,Often,Sometimes,More than 8,Always,Yes,Never,Music/Entertainment,3
+2026/03/29 7:53:15 AM GMT+5:30,26,Male,Often,Often,Never,Yes,Never,Often,Yes,05-Jun,Sometimes,Yes,Rarely,Music/Entertainment,2
+2026/03/29 7:53:15 AM GMT+5:30,59,Female,Often,Always,Sometimes,Yes,Always,Sometimes,Yes,More than 8,Never,Yes,Weekly,Music/Entertainment,4
+2026/03/29 7:53:15 AM GMT+5:30,29,Female,Sometimes,Often,Often,No,Often,Often,No,05-Jun,Sometimes,Yes,Rarely,Talking to someone,3
+2026/03/29 7:53:16 AM GMT+5:30,22,Male,Often,Sometimes,Often,Sometimes,Sometimes,Often,Yes,07-Aug,Sometimes,Yes,Daily,Music/Entertainment,5
+2026/03/29 7:53:16 AM GMT+5:30,33,Prefer not to say,Often,Sometimes,Often,Sometimes,Never,Often,Yes,Less than 5,Often,No,Rarely,Music/Entertainment,3
+2026/03/29 7:53:16 AM GMT+5:30,20,Male,Often,Never,Sometimes,No,Sometimes,Always,No,More than 8,Often,Yes,Rarely,Sleeping,2
+2026/03/29 7:53:16 AM GMT+5:30,29,Male,Always,Always,Always,Often,Often,Always,Often,Less than 5 hours,Always,No,Rarely,I don’t cope well,Very Poor
+2026/03/29 7:53:16 AM GMT+5:30,51,Female,Never,Sometimes,Never,No,Always,Always,No,05-Jun,Always,No,Rarely,Sleeping,4
+2026/03/29 7:53:16 AM GMT+5:30,19,Female,Always,Always,Always,Often,Often,Always,Often,Less than 5 hours,Always,No,Rarely,I don’t cope well,Very Poor
+2026/03/29 7:53:16 AM GMT+5:30,57,Prefer not to say,Always,Always,Always,Often,Often,Always,Often,Less than 5 hours,Always,No,Rarely,I don’t cope well,Very Poor
+2026/03/29 7:53:17 AM GMT+5:30,29,Prefer not to say,Always,Always,Always,Often,Often,Always,Often,Less than 5 hours,Always,No,Rarely,I don’t cope well,Very Poor
+2026/03/29 7:53:17 AM GMT+5:30,28,Prefer not to say,Sometimes,Never,Often,Sometimes,Sometimes,Often,Sometimes,Less than 5,Always,No,Rarely,Music/Entertainment,3
+2026/03/29 7:53:17 AM GMT+5:30,35,Female,Often,Often,Sometimes,Yes,Often,Sometimes,Yes,07-Aug,Sometimes,No,Daily,Avoiding problems,3
+2026/03/29 7:53:17 AM GMT+5:30,19,Female,Sometimes,Always,Sometimes,Sometimes,Often,Sometimes,Sometimes,07-Aug,Often,Yes,Rarely,Exercise,4
+2026/03/29 7:53:17 AM GMT+5:30,23,Female,Always,Sometimes,Sometimes,Yes,Never,Sometimes,Sometimes,Less than 5,Sometimes,No,Weekly,Music/Entertainment,5
+2026/03/29 7:53:18 AM GMT+5:30,46,Prefer not to say,Always,Always,Always,Often,Often,Always,Often,Less than 5 hours,Always,No,Rarely,I don’t cope well,Very Poor
+2026/03/29 7:53:18 AM GMT+5:30,23,Female,Always,Sometimes,Never,Sometimes,Never,Sometimes,Sometimes,07-Aug,Sometimes,Yes,Never,Avoiding problems,1
+2026/03/29 7:53:18 AM GMT+5:30,19,Male,Often,Always,Often,Yes,Never,Sometimes,Yes,More than 8,Always,Yes,Weekly,Other,5
+2026/03/29 7:53:18 AM GMT+5:30,39,Male,Never,Never,Sometimes,Sometimes,Always,Sometimes,No,More than 8,Never,No,Rarely,Avoiding problems,3
+2026/03/29 7:53:18 AM GMT+5:30,29,Female,Always,Always,Always,Often,Often,Always,Often,Less than 5 hours,Always,No,Rarely,I don’t cope well,Very Poor
+2026/03/29 7:53:18 AM GMT+5:30,29,Female,Always,Always,Always,Often,Often,Always,Often,Less than 5 hours,Always,No,Rarely,I don’t cope well,Very Poor
+2026/03/29 7:53:18 AM GMT+5:30,18,Prefer not to say,Always,Always,Always,Often,Often,Always,Often,Less than 5 hours,Always,No,Rarely,I don’t cope well,Very Poor
+2026/03/29 7:53:18 AM GMT+5:30,20,Male,Often,Sometimes,Sometimes,No,Often,Rarely,Sometimes,07-Aug,Sometimes,Yes,Daily,Music/Entertainment,3
+2026/03/29 7:53:18 AM GMT+5:30,40,Male,Often,Often,Sometimes,Yes,Sometimes,Sometimes,No,More than 8,Often,No,Weekly,Music/Entertainment,3
+2026/03/29 7:53:19 AM GMT+5:30,40,Male,Always,Always,Always,Often,Often,Always,Often,Less than 5 hours,Always,No,Rarely,I don’t cope well,Very Poor
+2026/03/29 7:53:19 AM GMT+5:30,22,Female,Sometimes,Sometimes,Never,Yes,Always,Rarely,Sometimes,07-Aug,Often,Yes,Never,Talking to someone,4
+2026/03/29 7:53:19 AM GMT+5:30,20,Male,Always,Sometimes,Never,Sometimes,Never,Always,Yes,05-Jun,Always,No,Daily,Music/Entertainment,3
+2026/03/29 7:53:19 AM GMT+5:30,29,Male,Always,Always,Always,Often,Often,Always,Often,Less than 5 hours,Always,No,Rarely,I don’t cope well,Very Poor
+2026/03/29 7:53:20 AM GMT+5:30,23,Female,Often,Sometimes,Often,Yes,Sometimes,Rarely,Yes,07-Aug,Often,No,Never,Talking to someone,2
+2026/03/29 7:53:20 AM GMT+5:30,24,Male,Always,Always,Always,Often,Often,Always,Often,Less than 5 hours,Always,No,Rarely,I don’t cope well,Very Poor
+2026/03/29 7:53:20 AM GMT+5:30,33,Male,Always,Often,Always,No,Often,Often,Yes,07-Aug,Sometimes,Yes,Weekly,Music/Entertainment,5
+2026/03/29 7:53:20 AM GMT+5:30,41,Prefer not to say,Often,Often,Always,No,Sometimes,Sometimes,Sometimes,07-Aug,Often,Yes,Rarely,Talking to someone,3
+2026/03/29 7:53:20 AM GMT+5:30,19,Female,Always,Sometimes,Never,Yes,Often,Sometimes,Yes,07-Aug,Sometimes,Yes,Never,Music/Entertainment,3
+2026/03/29 7:53:20 AM GMT+5:30,19,Prefer not to say,Sometimes,Sometimes,Never,No,Often,Often,Yes,05-Jun,Often,Yes,Never,Avoiding problems,4
+2026/03/29 7:53:20 AM GMT+5:30,57,Female,Always,Sometimes,Often,Yes,Often,Often,Sometimes,Less than 5,Often,Yes,Weekly,Exercise,1
+2026/03/29 7:53:20 AM GMT+5:30,29,Male,Sometimes,Always,Always,No,Often,Rarely,Yes,More than 8,Always,Yes,Never,Avoiding problems,2
+2026/03/29 7:53:20 AM GMT+5:30,41,Female,Sometimes,Sometimes,Sometimes,Yes,Always,Sometimes,No,More than 8,Often,Yes,Rarely,Exercise,2
+2026/03/29 7:53:20 AM GMT+5:30,27,Male,Sometimes,Never,Always,Yes,Often,Always,No,05-Jun,Sometimes,No,Weekly,Talking to someone,4
+2026/03/29 7:53:21 AM GMT+5:30,25,Male,Always,Never,Always,Yes,Sometimes,Often,No,07-Aug,Always,Yes,Never,Sleeping,3
+2026/03/29 7:53:21 AM GMT+5:30,24,Male,Always,Always,Always,Often,Often,Always,Often,Less than 5 hours,Always,No,Rarely,I don’t cope well,Very Poor
+2026/03/29 7:53:21 AM GMT+5:30,21,Female,Always,Always,Always,Often,Often,Always,Often,Less than 5 hours,Always,No,Rarely,I don’t cope well,Very Poor
+2026/03/29 7:53:21 AM GMT+5:30,22,Male,Sometimes,Sometimes,Often,No,Always,Often,Yes,07-Aug,Always,Yes,Weekly,Sleeping,3
+2026/03/29 7:53:21 AM GMT+5:30,41,Female,Never,Sometimes,Often,Sometimes,Sometimes,Sometimes,Yes,07-Aug,Sometimes,No,Rarely,Sleeping,5
+2026/03/29 7:53:21 AM GMT+5:30,30,Female,Sometimes,Never,Often,Sometimes,Sometimes,Sometimes,Sometimes,07-Aug,Never,Yes,Weekly,Music/Entertainment,5
+2026/03/29 7:53:21 AM GMT+5:30,21,Male,Always,Always,Always,Often,Often,Always,Often,Less than 5 hours,Always,No,Rarely,I don’t cope well,Very Poor
+2026/03/29 7:53:21 AM GMT+5:30,54,Male,Sometimes,Often,Sometimes,No,Often,Often,No,Less than 5,Sometimes,Yes,Daily,Other,4
+2026/03/29 7:53:21 AM GMT+5:30,34,Male,Often,Never,Never,Yes,Often,Always,No,05-Jun,Always,No,Daily,Sleeping,5
+2026/03/29 7:53:21 AM GMT+5:30,52,Female,Often,Never,Sometimes,No,Never,Often,No,Less than 5,Often,Yes,Rarely,Music/Entertainment,4
+2026/03/29 7:53:22 AM GMT+5:30,28,Male,Often,Never,Never,Yes,Often,Sometimes,Yes,07-Aug,Sometimes,No,Weekly,Avoiding problems,3
+2026/03/29 7:53:22 AM GMT+5:30,22,Prefer not to say,Sometimes,Sometimes,Often,No,Often,Sometimes,Yes,07-Aug,Always,No,Weekly,Sleeping,3
+2026/03/29 7:53:22 AM GMT+5:30,29,Male,Sometimes,Often,Never,Sometimes,Often,Always,Sometimes,More than 8,Never,No,Rarely,Exercise,3
+2026/03/29 7:53:22 AM GMT+5:30,48,Prefer not to say,Often,Often,Never,Yes,Sometimes,Sometimes,Sometimes,05-Jun,Sometimes,Yes,Daily,Sleeping,3
+2026/03/29 7:53:22 AM GMT+5:30,36,Female,Always,Always,Always,Often,Often,Always,Often,Less than 5 hours,Always,No,Rarely,I don’t cope well,Very Poor
+2026/03/29 7:53:22 AM GMT+5:30,25,Male,Always,Always,Always,Often,Often,Always,Often,Less than 5 hours,Always,No,Rarely,I don’t cope well,Very Poor
+2026/03/29 7:53:22 AM GMT+5:30,18,Male,Sometimes,Always,Often,No,Often,Sometimes,Yes,07-Aug,Often,No,Weekly,Talking to someone,4
+2026/03/29 7:53:22 AM GMT+5:30,20,Male,Often,Often,Often,Sometimes,Sometimes,Sometimes,Sometimes,05-Jun,Often,Yes,Weekly,Music/Entertainment,2
+2026/03/29 7:53:22 AM GMT+5:30,18,Male,Often,Sometimes,Often,No,Often,Rarely,Yes,07-Aug,Never,Yes,Weekly,Talking to someone,3
+2026/03/29 7:53:22 AM GMT+5:30,49,Male,Always,Often,Sometimes,No,Sometimes,Often,No,07-Aug,Often,Yes,Rarely,Music/Entertainment,4
+2026/03/29 7:53:22 AM GMT+5:30,27,Female,Often,Often,Never,Sometimes,Often,Often,Sometimes,07-Aug,Sometimes,Yes,Weekly,Avoiding problems,5
+2026/03/29 7:53:22 AM GMT+5:30,36,Male,Sometimes,Never,Never,No,Sometimes,Sometimes,Sometimes,07-Aug,Often,Yes,Weekly,Exercise,4
+2026/03/29 7:53:23 AM GMT+5:30,29,Male,Sometimes,Often,Often,Yes,Often,Often,Yes,05-Jun,Often,No,Rarely,Sleeping,3
+2026/03/29 7:53:23 AM GMT+5:30,18,Male,Always,Always,Always,Often,Often,Always,Often,Less than 5 hours,Always,No,Rarely,I don’t cope well,Very Poor
+2026/03/29 7:53:23 AM GMT+5:30,26,Female,Sometimes,Often,Often,No,Sometimes,Sometimes,Yes,07-Aug,Never,Yes,Weekly,Avoiding problems,4
+2026/03/29 7:53:23 AM GMT+5:30,21,Female,Always,Always,Always,Often,Often,Always,Often,Less than 5 hours,Always,No,Rarely,I don’t cope well,Very Poor
+2026/03/29 7:53:23 AM GMT+5:30,30,Female,Never,Sometimes,Sometimes,Yes,Sometimes,Often,Yes,07-Aug,Often,No,Weekly,Exercise,2
+2026/03/29 7:53:23 AM GMT+5:30,44,Male,Often,Often,Sometimes,No,Never,Often,Sometimes,07-Aug,Sometimes,Yes,Rarely,Talking to someone,2
+2026/03/29 7:53:23 AM GMT+5:30,24,Male,Often,Often,Sometimes,Yes,Never,Often,No,Less than 5,Always,No,Rarely,Music/Entertainment,3
+2026/03/29 7:53:23 AM GMT+5:30,45,Female,Always,Sometimes,Often,Yes,Sometimes,Sometimes,Sometimes,07-Aug,Sometimes,Yes,Weekly,Other,4
+2026/03/29 7:53:23 AM GMT+5:30,52,Prefer not to say,Often,Often,Sometimes,Sometimes,Never,Rarely,No,Less than 5,Never,Yes,Rarely,Other,4
+2026/03/29 7:53:23 AM GMT+5:30,48,Female,Sometimes,Often,Always,No,Often,Often,No,More than 8,Always,No,Daily,Exercise,4
+2026/03/29 7:53:23 AM GMT+5:30,18,Female,Sometimes,Always,Always,Sometimes,Sometimes,Often,No,07-Aug,Never,Yes,Daily,Talking to someone,5
+2026/03/29 7:53:23 AM GMT+5:30,25,Female,Never,Often,Sometimes,Yes,Sometimes,Often,No,More than 8,Often,Yes,Never,Music/Entertainment,5
+2026/03/29 7:53:24 AM GMT+5:30,36,Female,Sometimes,Always,Often,No,Sometimes,Always,Yes,05-Jun,Sometimes,No,Daily,Talking to someone,3
+2026/03/29 7:53:24 AM GMT+5:30,35,Female,Always,Often,Often,Sometimes,Never,Sometimes,Sometimes,07-Aug,Sometimes,Yes,Never,Exercise,3
+2026/03/29 7:53:24 AM GMT+5:30,49,Male,Sometimes,Sometimes,Sometimes,Yes,Sometimes,Sometimes,No,More than 8,Always,Yes,Weekly,Other,2
+2026/03/29 7:53:24 AM GMT+5:30,21,Female,Sometimes,Often,Often,Sometimes,Sometimes,Sometimes,No,05-Jun,Often,Yes,Weekly,Avoiding problems,1
+2026/03/29 7:53:24 AM GMT+5:30,23,Male,Often,Always,Never,Yes,Never,Often,Yes,07-Aug,Often,No,Weekly,Sleeping,4
+2026/03/29 7:53:24 AM GMT+5:30,32,Male,Often,Often,Sometimes,Sometimes,Always,Sometimes,Yes,More than 8,Never,Yes,Rarely,Avoiding problems,3
+2026/03/29 7:53:24 AM GMT+5:30,21,Female,Often,Always,Often,Yes,Sometimes,Often,No,05-Jun,Often,Yes,Never,Sleeping,1
+2026/03/29 7:53:24 AM GMT+5:30,52,Female,Often,Often,Never,Sometimes,Often,Always,No,Less than 5,Always,No,Rarely,Talking to someone,5
+2026/03/29 7:53:24 AM GMT+5:30,35,Male,Always,Always,Always,Often,Often,Always,Often,Less than 5 hours,Always,No,Rarely,I don’t cope well,Very Poor
+2026/03/29 7:53:24 AM GMT+5:30,23,Female,Always,Sometimes,Often,Sometimes,Sometimes,Sometimes,Sometimes,05-Jun,Often,Yes,Weekly,Exercise,4
+2026/03/29 7:53:24 AM GMT+5:30,56,Female,Always,Always,Always,Often,Often,Always,Often,Less than 5 hours,Always,No,Rarely,I don’t cope well,Very Poor
+2026/03/29 7:53:24 AM GMT+5:30,26,Prefer not to say,Often,Often,Sometimes,Sometimes,Never,Sometimes,Yes,05-Jun,Sometimes,Yes,Daily,Music/Entertainment,2
+2026/03/29 7:53:24 AM GMT+5:30,18,Prefer not to say,Sometimes,Sometimes,Often,No,Never,Always,Yes,More than 8,Always,Yes,Daily,Avoiding problems,3
+2026/03/29 7:53:24 AM GMT+5:30,19,Prefer not to say,Sometimes,Always,Sometimes,Yes,Never,Always,Sometimes,More than 8,Often,Yes,Weekly,Music/Entertainment,2
+2026/03/29 7:53:24 AM GMT+5:30,31,Male,Often,Always,Never,Yes,Never,Sometimes,Yes,Less than 5,Sometimes,No,Daily,Other,3
+2026/03/29 7:53:24 AM GMT+5:30,37,Male,Often,Often,Sometimes,No,Never,Sometimes,Sometimes,07-Aug,Sometimes,Yes,Never,Sleeping,1
+2026/03/29 7:53:25 AM GMT+5:30,37,Male,Never,Sometimes,Sometimes,Sometimes,Sometimes,Sometimes,No,07-Aug,Always,Yes,Rarely,Other,3
+2026/03/29 7:53:25 AM GMT+5:30,24,Prefer not to say,Always,Always,Sometimes,No,Never,Often,Sometimes,Less than 5,Often,Yes,Weekly,Avoiding problems,3
+2026/03/29 7:53:25 AM GMT+5:30,21,Male,Always,Never,Sometimes,Sometimes,Often,Often,Sometimes,More than 8,Always,Yes,Rarely,Sleeping,4
+2026/03/29 7:53:25 AM GMT+5:30,47,Male,Sometimes,Never,Sometimes,Yes,Sometimes,Often,No,Less than 5,Sometimes,No,Weekly,Exercise,3
+2026/03/29 7:53:25 AM GMT+5:30,22,Prefer not to say,Sometimes,Sometimes,Never,No,Sometimes,Often,Sometimes,Less than 5,Sometimes,Yes,Rarely,Music/Entertainment,2
+2026/03/29 7:53:25 AM GMT+5:30,23,Male,Often,Sometimes,Never,Sometimes,Sometimes,Sometimes,Yes,07-Aug,Often,No,Weekly,Talking to someone,4
+2026/03/29 7:53:25 AM GMT+5:30,30,Male,Sometimes,Often,Sometimes,Sometimes,Always,Sometimes,Yes,More than 8,Sometimes,No,Daily,Talking to someone,2
+2026/03/29 7:53:25 AM GMT+5:30,24,Male,Often,Often,Never,No,Sometimes,Often,Sometimes,Less than 5,Often,Yes,Never,Exercise,4
+2026/03/29 7:53:25 AM GMT+5:30,24,Female,Sometimes,Sometimes,Sometimes,No,Sometimes,Sometimes,Sometimes,Less than 5,Often,Yes,Weekly,Avoiding problems,5
+2026/03/29 7:53:26 AM GMT+5:30,52,Female,Often,Sometimes,Always,No,Sometimes,Often,Yes,05-Jun,Often,Yes,Weekly,Other,4
+2026/03/29 7:53:26 AM GMT+5:30,45,Male,Always,Always,Always,Often,Often,Always,Often,Less than 5 hours,Always,No,Rarely,I don’t cope well,Very Poor
+2026/03/29 7:53:26 AM GMT+5:30,57,Male,Sometimes,Never,Often,Sometimes,Sometimes,Sometimes,Yes,05-Jun,Never,Yes,Weekly,Other,4
+2026/03/29 7:53:26 AM GMT+5:30,27,Prefer not to say,Often,Often,Never,Sometimes,Often,Often,Sometimes,07-Aug,Often,Yes,Weekly,Music/Entertainment,5
+2026/03/29 7:53:26 AM GMT+5:30,59,Prefer not to say,Often,Sometimes,Never,No,Sometimes,Sometimes,No,07-Aug,Always,No,Rarely,Music/Entertainment,3
+2026/03/29 7:53:26 AM GMT+5:30,24,Female,Sometimes,Often,Sometimes,No,Often,Sometimes,Sometimes,05-Jun,Often,Yes,Daily,Exercise,3
+2026/03/29 7:53:26 AM GMT+5:30,20,Male,Sometimes,Often,Sometimes,Sometimes,Sometimes,Often,Sometimes,Less than 5,Sometimes,Yes,Rarely,Music/Entertainment,2
+2026/03/29 7:53:27 AM GMT+5:30,41,Prefer not to say,Always,Sometimes,Often,Sometimes,Sometimes,Always,Yes,07-Aug,Often,No,Weekly,Music/Entertainment,4
+2026/03/29 7:53:27 AM GMT+5:30,30,Prefer not to say,Sometimes,Always,Sometimes,No,Never,Always,Yes,More than 8,Often,No,Rarely,Music/Entertainment,4
+2026/03/29 7:53:27 AM GMT+5:30,29,Prefer not to say,Sometimes,Often,Often,Yes,Always,Often,No,05-Jun,Always,Yes,Weekly,Sleeping,3
+2026/03/29 7:53:27 AM GMT+5:30,27,Female,Sometimes,Sometimes,Never,Yes,Sometimes,Rarely,Sometimes,Less than 5,Often,Yes,Daily,Music/Entertainment,4
+2026/03/29 7:53:27 AM GMT+5:30,19,Prefer not to say,Sometimes,Sometimes,Never,No,Sometimes,Sometimes,Yes,07-Aug,Often,Yes,Daily,Exercise,3
+2026/03/29 7:53:27 AM GMT+5:30,28,Female,Always,Always,Often,No,Sometimes,Sometimes,Sometimes,05-Jun,Often,Yes,Weekly,Music/Entertainment,4
+2026/03/29 7:53:27 AM GMT+5:30,55,Female,Sometimes,Never,Always,No,Often,Always,Sometimes,Less than 5,Sometimes,Yes,Weekly,Music/Entertainment,3
+2026/03/29 7:53:27 AM GMT+5:30,49,Female,Always,Always,Always,Often,Often,Always,Often,Less than 5 hours,Always,No,Rarely,I don’t cope well,Very Poor
+2026/03/29 7:53:27 AM GMT+5:30,26,Female,Sometimes,Sometimes,Never,No,Sometimes,Sometimes,No,07-Aug,Often,No,Rarely,Exercise,2
+2026/03/29 7:53:28 AM GMT+5:30,18,Male,Sometimes,Always,Often,Sometimes,Often,Often,No,Less than 5,Always,Yes,Daily,Talking to someone,5
+2026/03/29 7:53:28 AM GMT+5:30,46,Male,Always,Always,Sometimes,Sometimes,Often,Sometimes,Sometimes,05-Jun,Always,Yes,Daily,Talking to someone,4
+2026/03/29 7:53:28 AM GMT+5:30,38,Female,Often,Often,Never,Sometimes,Always,Always,No,07-Aug,Sometimes,No,Daily,Avoiding problems,4
+2026/03/29 7:53:28 AM GMT+5:30,21,Prefer not to say,Always,Sometimes,Sometimes,Yes,Sometimes,Often,No,07-Aug,Sometimes,Yes,Weekly,Avoiding problems,3
+2026/03/29 7:53:28 AM GMT+5:30,23,Prefer not to say,Always,Always,Always,Often,Often,Always,Often,Less than 5 hours,Always,No,Rarely,I don’t cope well,Very Poor
+2026/03/29 7:53:28 AM GMT+5:30,51,Female,Sometimes,Never,Often,Yes,Never,Always,Yes,Less than 5,Often,No,Daily,Music/Entertainment,3
+2026/03/29 7:53:28 AM GMT+5:30,21,Prefer not to say,Often,Often,Always,Yes,Often,Often,Yes,07-Aug,Often,Yes,Rarely,Avoiding problems,2
+2026/03/29 7:53:28 AM GMT+5:30,22,Male,Often,Often,Often,Sometimes,Sometimes,Often,No,07-Aug,Often,Yes,Daily,Avoiding problems,3
+2026/03/29 7:53:28 AM GMT+5:30,32,Prefer not to say,Often,Often,Never,Sometimes,Never,Often,Yes,05-Jun,Often,Yes,Rarely,Exercise,4
+2026/03/29 7:53:28 AM GMT+5:30,23,Prefer not to say,Never,Sometimes,Often,No,Sometimes,Always,Sometimes,05-Jun,Sometimes,Yes,Rarely,Music/Entertainment,4
+2026/03/29 7:53:28 AM GMT+5:30,30,Female,Sometimes,Often,Sometimes,Sometimes,Always,Always,Sometimes,05-Jun,Often,No,Weekly,Sleeping,5
+2026/03/29 7:53:28 AM GMT+5:30,47,Male,Often,Often,Sometimes,Sometimes,Often,Always,Yes,Less than 5,Always,Yes,Never,Avoiding problems,4
+2026/03/29 7:53:28 AM GMT+5:30,32,Prefer not to say,Sometimes,Never,Sometimes,Yes,Sometimes,Always,Yes,07-Aug,Often,Yes,Rarely,Avoiding problems,4
+2026/03/29 7:53:28 AM GMT+5:30,58,Prefer not to say,Often,Never,Always,Sometimes,Always,Always,Yes,More than 8,Sometimes,Yes,Weekly,Sleeping,4
+2026/03/29 7:53:29 AM GMT+5:30,45,Female,Sometimes,Often,Sometimes,Sometimes,Always,Sometimes,No,More than 8,Sometimes,Yes,Daily,Exercise,4
+2026/03/29 7:53:29 AM GMT+5:30,45,Prefer not to say,Sometimes,Sometimes,Often,Sometimes,Often,Often,Sometimes,More than 8,Sometimes,Yes,Daily,Sleeping,3
+2026/03/29 7:53:29 AM GMT+5:30,26,Female,Often,Sometimes,Sometimes,No,Always,Sometimes,Sometimes,More than 8,Always,Yes,Rarely,Music/Entertainment,3
+2026/03/29 7:53:29 AM GMT+5:30,41,Male,Sometimes,Often,Often,Yes,Sometimes,Sometimes,Yes,More than 8,Never,Yes,Never,Avoiding problems,3
+2026/03/29 7:53:29 AM GMT+5:30,21,Female,Sometimes,Sometimes,Never,No,Often,Sometimes,Yes,07-Aug,Sometimes,Yes,Never,Sleeping,4
+2026/03/29 7:53:29 AM GMT+5:30,50,Male,Sometimes,Never,Sometimes,Sometimes,Sometimes,Always,Sometimes,07-Aug,Often,No,Daily,Exercise,4
+2026/03/29 7:53:29 AM GMT+5:30,19,Female,Sometimes,Always,Always,No,Never,Often,Sometimes,05-Jun,Sometimes,Yes,Rarely,Music/Entertainment,2
+2026/03/29 7:53:29 AM GMT+5:30,32,Male,Sometimes,Sometimes,Always,No,Sometimes,Often,Yes,07-Aug,Sometimes,No,Never,Exercise,4
+2026/03/29 7:53:29 AM GMT+5:30,38,Female,Always,Always,Always,Often,Often,Always,Often,Less than 5 hours,Always,No,Rarely,I don’t cope well,Very Poor
+2026/03/29 7:53:29 AM GMT+5:30,24,Female,Always,Sometimes,Sometimes,Yes,Never,Always,Sometimes,Less than 5,Often,No,Daily,Talking to someone,3
+2026/03/29 7:53:29 AM GMT+5:30,29,Female,Often,Often,Sometimes,Yes,Always,Always,Yes,07-Aug,Often,Yes,Weekly,Music/Entertainment,3
+2026/03/29 7:53:29 AM GMT+5:30,19,Male,Always,Sometimes,Often,No,Sometimes,Often,Sometimes,07-Aug,Never,No,Daily,Avoiding problems,1
+2026/03/29 7:53:30 AM GMT+5:30,24,Female,Often,Sometimes,Always,No,Always,Always,No,07-Aug,Sometimes,Yes,Weekly,Avoiding problems,4
+2026/03/29 7:53:30 AM GMT+5:30,23,Female,Always,Never,Sometimes,No,Often,Often,Sometimes,05-Jun,Never,Yes,Rarely,Sleeping,2
+2026/03/29 7:53:30 AM GMT+5:30,41,Prefer not to say,Always,Always,Always,Often,Often,Always,Often,Less than 5 hours,Always,No,Rarely,I don’t cope well,Very Poor
+2026/03/29 7:53:30 AM GMT+5:30,33,Male,Always,Always,Always,Often,Often,Always,Often,Less than 5 hours,Always,No,Rarely,I don’t cope well,Very Poor
+2026/03/29 7:53:30 AM GMT+5:30,51,Female,Sometimes,Often,Never,Yes,Often,Sometimes,Yes,Less than 5,Often,Yes,Weekly,Music/Entertainment,5
+2026/03/29 7:53:30 AM GMT+5:30,48,Male,Never,Sometimes,Sometimes,Yes,Sometimes,Sometimes,No,More than 8,Always,No,Daily,Sleeping,4
+2026/03/29 7:53:30 AM GMT+5:30,56,Female,Always,Sometimes,Sometimes,No,Sometimes,Sometimes,Yes,More than 8,Often,Yes,Weekly,Exercise,4
+2026/03/29 7:53:30 AM GMT+5:30,36,Prefer not to say,Sometimes,Often,Sometimes,Yes,Sometimes,Sometimes,Yes,More than 8,Always,Yes,Never,Talking to someone,4
+2026/03/29 7:53:30 AM GMT+5:30,57,Female,Always,Always,Always,Often,Often,Always,Often,Less than 5 hours,Always,No,Rarely,I don’t cope well,Very Poor
+2026/03/29 7:53:30 AM GMT+5:30,18,Female,Always,Always,Always,Yes,Sometimes,Often,Yes,More than 8,Always,Yes,Weekly,Avoiding problems,5
+2026/03/29 7:53:31 AM GMT+5:30,20,Female,Always,Often,Sometimes,No,Never,Often,Sometimes,07-Aug,Often,No,Never,Music/Entertainment,2
+2026/03/29 7:53:31 AM GMT+5:30,18,Male,Never,Always,Often,No,Sometimes,Often,Yes,07-Aug,Often,Yes,Weekly,Exercise,4
+2026/03/29 7:53:31 AM GMT+5:30,25,Female,Always,Always,Always,Often,Often,Always,Often,Less than 5 hours,Always,No,Rarely,I don’t cope well,Very Poor
+2026/03/29 7:53:31 AM GMT+5:30,26,Male,Always,Always,Always,Often,Often,Always,Often,Less than 5 hours,Always,No,Rarely,I don’t cope well,Very Poor
+2026/03/29 7:53:31 AM GMT+5:30,29,Male,Always,Always,Always,Often,Often,Always,Often,Less than 5 hours,Always,No,Rarely,I don’t cope well,Very Poor
+2026/03/29 7:53:31 AM GMT+5:30,58,Male,Always,Always,Always,Often,Often,Always,Often,Less than 5 hours,Always,No,Rarely,I don’t cope well,Very Poor
+2026/03/29 7:53:31 AM GMT+5:30,43,Female,Always,Always,Always,Often,Often,Always,Often,Less than 5 hours,Always,No,Rarely,I don’t cope well,Very Poor
+2026/03/29 7:53:31 AM GMT+5:30,54,Male,Always,Always,Always,Often,Often,Always,Often,Less than 5 hours,Always,No,Rarely,I don’t cope well,Very Poor
+2026/03/29 7:53:31 AM GMT+5:30,25,Female,Sometimes,Often,Sometimes,Yes,Sometimes,Sometimes,Sometimes,07-Aug,Often,Yes,Rarely,Music/Entertainment,4
+2026/03/29 7:53:31 AM GMT+5:30,21,Male,Always,Always,Always,Often,Often,Always,Often,Less than 5 hours,Always,No,Rarely,I don’t cope well,Very Poor
+2026/03/29 7:53:31 AM GMT+5:30,23,Prefer not to say,Often,Sometimes,Sometimes,Yes,Always,Sometimes,No,07-Aug,Sometimes,Yes,Rarely,Talking to someone,5
+2026/03/29 7:53:31 AM GMT+5:30,47,Male,Often,Sometimes,Often,No,Sometimes,Sometimes,Sometimes,05-Jun,Often,Yes,Daily,Avoiding problems,2
+2026/03/29 7:53:32 AM GMT+5:30,39,Female,Sometimes,Often,Never,Sometimes,Sometimes,Often,No,05-Jun,Always,Yes,Daily,Talking to someone,3
+2026/03/29 7:53:32 AM GMT+5:30,24,Female,Often,Often,Sometimes,Yes,Sometimes,Often,Yes,07-Aug,Never,No,Daily,Music/Entertainment,2
+2026/03/29 7:53:32 AM GMT+5:30,35,Female,Always,Sometimes,Often,Sometimes,Often,Often,No,05-Jun,Often,No,Never,Avoiding problems,3
+2026/03/29 7:53:32 AM GMT+5:30,19,Male,Often,Sometimes,Sometimes,No,Always,Sometimes,No,07-Aug,Sometimes,Yes,Never,Sleeping,4
+2026/03/29 7:53:32 AM GMT+5:30,25,Male,Sometimes,Sometimes,Always,Sometimes,Sometimes,Often,No,05-Jun,Sometimes,Yes,Daily,Talking to someone,4
+2026/03/29 7:53:32 AM GMT+5:30,23,Female,Always,Always,Often,Sometimes,Often,Sometimes,Sometimes,05-Jun,Often,No,Weekly,Music/Entertainment,3
+2026/03/29 7:53:32 AM GMT+5:30,59,Female,Always,Sometimes,Often,Sometimes,Often,Often,Yes,07-Aug,Always,No,Rarely,Sleeping,4
+2026/03/29 7:53:32 AM GMT+5:30,48,Male,Sometimes,Never,Often,No,Always,Often,Sometimes,Less than 5,Often,Yes,Daily,Talking to someone,5
+2026/03/29 7:53:32 AM GMT+5:30,20,Prefer not to say,Sometimes,Often,Sometimes,Sometimes,Sometimes,Rarely,Yes,05-Jun,Always,Yes,Rarely,Sleeping,5
+2026/03/29 7:53:32 AM GMT+5:30,27,Male,Always,Always,Always,Often,Often,Always,Often,Less than 5 hours,Always,No,Rarely,I don’t cope well,Very Poor
+2026/03/29 7:53:32 AM GMT+5:30,26,Male,Often,Sometimes,Sometimes,No,Always,Often,Yes,05-Jun,Always,No,Rarely,Music/Entertainment,4
+2026/03/29 7:53:32 AM GMT+5:30,34,Male,Never,Often,Sometimes,Yes,Always,Often,Yes,More than 8,Often,Yes,Rarely,Music/Entertainment,3
+2026/03/29 7:53:32 AM GMT+5:30,24,Female,Often,Often,Often,Yes,Never,Often,No,07-Aug,Sometimes,Yes,Weekly,Avoiding problems,2
+2026/03/29 7:53:32 AM GMT+5:30,19,Male,Always,Always,Always,Often,Often,Always,Often,Less than 5 hours,Always,No,Rarely,I don’t cope well,Very Poor
+2026/03/29 7:53:33 AM GMT+5:30,50,Female,Always,Sometimes,Sometimes,Sometimes,Often,Often,Yes,Less than 5,Sometimes,Yes,Never,Avoiding problems,3
+2026/03/29 7:53:33 AM GMT+5:30,44,Female,Always,Sometimes,Sometimes,Yes,Sometimes,Often,No,07-Aug,Always,Yes,Rarely,Talking to someone,2
+2026/03/29 7:53:33 AM GMT+5:30,56,Female,Often,Often,Sometimes,No,Sometimes,Always,Yes,Less than 5,Sometimes,No,Never,Other,3
+2026/03/29 7:53:33 AM GMT+5:30,25,Female,Often,Sometimes,Often,Yes,Sometimes,Often,Sometimes,More than 8,Often,Yes,Daily,Sleeping,3
+2026/03/29 7:53:33 AM GMT+5:30,26,Prefer not to say,Always,Often,Often,Sometimes,Sometimes,Often,Yes,07-Aug,Sometimes,No,Rarely,Avoiding problems,3
+2026/03/29 7:53:34 AM GMT+5:30,26,Male,Sometimes,Always,Sometimes,No,Never,Sometimes,No,More than 8,Sometimes,No,Daily,Exercise,3
+2026/03/29 7:53:34 AM GMT+5:30,20,Prefer not to say,Sometimes,Never,Often,Sometimes,Sometimes,Sometimes,No,More than 8,Sometimes,Yes,Weekly,Talking to someone,1
+2026/03/29 7:53:34 AM GMT+5:30,26,Female,Always,Always,Always,Often,Often,Always,Often,Less than 5 hours,Always,No,Rarely,I don’t cope well,Very Poor
+2026/03/29 7:53:34 AM GMT+5:30,29,Male,Always,Sometimes,Sometimes,Yes,Sometimes,Sometimes,Yes,07-Aug,Often,No,Daily,Music/Entertainment,4
+2026/03/29 7:53:34 AM GMT+5:30,41,Prefer not to say,Often,Never,Always,No,Sometimes,Often,No,07-Aug,Sometimes,No,Never,Music/Entertainment,4
+2026/03/29 7:53:34 AM GMT+5:30,20,Male,Sometimes,Often,Often,No,Always,Always,Yes,07-Aug,Always,Yes,Rarely,Avoiding problems,2
+2026/03/29 7:53:34 AM GMT+5:30,22,Male,Often,Always,Always,Yes,Often,Always,Sometimes,More than 8,Never,No,Rarely,Exercise,3
+2026/03/29 7:53:34 AM GMT+5:30,19,Male,Always,Always,Always,Often,Often,Always,Often,Less than 5 hours,Always,No,Rarely,I don’t cope well,Very Poor
+2026/03/29 7:53:34 AM GMT+5:30,19,Female,Always,Never,Sometimes,Sometimes,Sometimes,Often,No,Less than 5,Often,Yes,Rarely,Exercise,1
+2026/03/29 7:53:34 AM GMT+5:30,22,Female,Sometimes,Never,Never,No,Sometimes,Always,Sometimes,07-Aug,Always,No,Rarely,Talking to someone,2
+2026/03/29 7:53:34 AM GMT+5:30,22,Male,Always,Always,Always,Often,Often,Always,Often,Less than 5 hours,Always,No,Rarely,I don’t cope well,Very Poor
+2026/03/29 7:53:34 AM GMT+5:30,19,Prefer not to say,Never,Sometimes,Often,No,Often,Sometimes,Yes,05-Jun,Sometimes,Yes,Weekly,Other,4
+2026/03/29 7:53:35 AM GMT+5:30,22,Female,Always,Sometimes,Often,Yes,Never,Often,No,More than 8,Sometimes,Yes,Never,Sleeping,5
+2026/03/29 7:53:35 AM GMT+5:30,30,Female,Always,Always,Always,Often,Often,Always,Often,Less than 5 hours,Always,No,Rarely,I don’t cope well,Very Poor
+2026/03/29 7:53:35 AM GMT+5:30,22,Female,Often,Often,Sometimes,Yes,Often,Often,Yes,07-Aug,Sometimes,Yes,Weekly,Exercise,1
+2026/03/29 7:53:35 AM GMT+5:30,30,Female,Sometimes,Always,Often,Sometimes,Never,Sometimes,Sometimes,07-Aug,Sometimes,Yes,Weekly,Music/Entertainment,3
+2026/03/29 7:53:35 AM GMT+5:30,27,Female,Often,Often,Always,No,Often,Often,Yes,More than 8,Sometimes,Yes,Weekly,Sleeping,3
+2026/03/29 7:53:35 AM GMT+5:30,38,Male,Always,Always,Always,Often,Often,Always,Often,Less than 5 hours,Always,No,Rarely,I don’t cope well,Very Poor
+2026/03/29 7:53:35 AM GMT+5:30,24,Prefer not to say,Often,Often,Sometimes,No,Often,Often,No,07-Aug,Sometimes,No,Never,Exercise,3
+2026/03/29 7:53:35 AM GMT+5:30,25,Male,Sometimes,Never,Sometimes,Sometimes,Often,Sometimes,Sometimes,More than 8,Sometimes,Yes,Weekly,Sleeping,3
+2026/03/29 7:53:35 AM GMT+5:30,29,Male,Often,Sometimes,Sometimes,Sometimes,Sometimes,Sometimes,No,07-Aug,Always,Yes,Never,Sleeping,4
+2026/03/29 7:53:35 AM GMT+5:30,50,Female,Always,Often,Never,Sometimes,Sometimes,Rarely,Sometimes,More than 8,Never,Yes,Weekly,Exercise,5
+2026/03/29 7:53:36 AM GMT+5:30,58,Male,Always,Always,Always,Often,Often,Always,Often,Less than 5 hours,Always,No,Rarely,I don’t cope well,Very Poor
+2026/03/29 7:53:36 AM GMT+5:30,40,Prefer not to say,Always,Always,Always,Often,Often,Always,Often,Less than 5 hours,Always,No,Rarely,I don’t cope well,Very Poor
+2026/03/29 7:53:36 AM GMT+5:30,29,Female,Sometimes,Sometimes,Sometimes,No,Always,Sometimes,Sometimes,Less than 5,Often,No,Never,Avoiding problems,3
+2026/03/29 7:53:36 AM GMT+5:30,22,Male,Often,Sometimes,Never,Yes,Often,Sometimes,Yes,07-Aug,Never,Yes,Weekly,Exercise,4
+2026/03/29 7:53:36 AM GMT+5:30,18,Female,Sometimes,Sometimes,Sometimes,Sometimes,Sometimes,Always,Yes,07-Aug,Often,No,Weekly,Talking to someone,2
+2026/03/29 7:53:36 AM GMT+5:30,23,Female,Always,Always,Never,Yes,Never,Sometimes,Sometimes,05-Jun,Often,No,Rarely,Other,3
+2026/03/29 7:53:36 AM GMT+5:30,29,Female,Sometimes,Often,Sometimes,No,Often,Sometimes,Yes,05-Jun,Sometimes,Yes,Rarely,Avoiding problems,4
+2026/03/29 7:53:36 AM GMT+5:30,59,Male,Sometimes,Sometimes,Never,Sometimes,Never,Sometimes,No,More than 8,Sometimes,No,Rarely,Avoiding problems,3
+2026/03/29 7:53:36 AM GMT+5:30,56,Prefer not to say,Never,Sometimes,Often,Yes,Often,Rarely,No,07-Aug,Sometimes,Yes,Rarely,Sleeping,5
+2026/03/29 7:53:37 AM GMT+5:30,28,Female,Often,Never,Always,Sometimes,Often,Always,Sometimes,07-Aug,Always,Yes,Rarely,Avoiding problems,3
+2026/03/29 7:53:37 AM GMT+5:30,35,Prefer not to say,Always,Sometimes,Always,Sometimes,Often,Sometimes,Sometimes,More than 8,Often,Yes,Never,Music/Entertainment,2
+2026/03/29 7:53:37 AM GMT+5:30,31,Male,Sometimes,Often,Sometimes,No,Sometimes,Often,Sometimes,07-Aug,Often,No,Daily,Talking to someone,4
+2026/03/29 7:53:37 AM GMT+5:30,26,Female,Often,Always,Sometimes,No,Always,Sometimes,Sometimes,05-Jun,Sometimes,Yes,Weekly,Music/Entertainment,4
+2026/03/29 7:53:37 AM GMT+5:30,34,Male,Often,Always,Sometimes,No,Sometimes,Rarely,Yes,07-Aug,Always,Yes,Weekly,Music/Entertainment,3
+2026/03/29 7:53:37 AM GMT+5:30,47,Male,Sometimes,Never,Always,No,Sometimes,Rarely,No,More than 8,Never,No,Weekly,Avoiding problems,3
+2026/03/29 7:53:37 AM GMT+5:30,35,Male,Sometimes,Sometimes,Sometimes,Sometimes,Sometimes,Often,No,07-Aug,Sometimes,No,Daily,Sleeping,5
+2026/03/29 7:53:37 AM GMT+5:30,59,Male,Always,Always,Always,Often,Often,Always,Often,Less than 5 hours,Always,No,Rarely,I don’t cope well,Very Poor
+2026/03/29 7:53:37 AM GMT+5:30,20,Female,Often,Always,Sometimes,No,Often,Sometimes,Yes,05-Jun,Never,Yes,Never,Sleeping,3
+2026/03/29 7:53:37 AM GMT+5:30,19,Prefer not to say,Often,Often,Sometimes,Yes,Often,Often,Sometimes,07-Aug,Always,Yes,Daily,Music/Entertainment,4
+2026/03/29 7:53:37 AM GMT+5:30,38,Prefer not to say,Sometimes,Sometimes,Never,Sometimes,Sometimes,Always,No,Less than 5,Sometimes,Yes,Rarely,Exercise,5
+2026/03/29 7:53:37 AM GMT+5:30,29,Male,Sometimes,Always,Often,Sometimes,Sometimes,Often,No,07-Aug,Always,Yes,Rarely,Avoiding problems,2
+2026/03/29 7:53:37 AM GMT+5:30,60,Prefer not to say,Often,Sometimes,Often,Sometimes,Sometimes,Rarely,No,Less than 5,Often,No,Daily,Avoiding problems,3
+2026/03/29 7:53:37 AM GMT+5:30,44,Male,Always,Always,Always,Often,Often,Always,Often,Less than 5 hours,Always,No,Rarely,I don’t cope well,Very Poor
+2026/03/29 7:53:38 AM GMT+5:30,38,Prefer not to say,Always,Often,Often,No,Often,Sometimes,Sometimes,07-Aug,Often,Yes,Weekly,Talking to someone,4
+2026/03/29 7:53:38 AM GMT+5:30,40,Male,Sometimes,Never,Often,Yes,Never,Sometimes,Yes,05-Jun,Sometimes,No,Rarely,Talking to someone,3
+2026/03/29 7:53:38 AM GMT+5:30,25,Male,Often,Always,Never,Yes,Sometimes,Often,Sometimes,Less than 5,Always,Yes,Rarely,Music/Entertainment,4
+2026/03/29 7:53:38 AM GMT+5:30,54,Male,Always,Always,Always,Often,Often,Always,Often,Less than 5 hours,Always,No,Rarely,I don’t cope well,Very Poor
+2026/03/29 7:53:38 AM GMT+5:30,54,Female,Sometimes,Sometimes,Often,Sometimes,Sometimes,Often,No,Less than 5,Sometimes,No,Daily,Talking to someone,4
+2026/03/29 7:53:38 AM GMT+5:30,22,Male,Never,Sometimes,Sometimes,Sometimes,Always,Sometimes,Sometimes,More than 8,Never,No,Daily,Sleeping,3
+2026/03/29 7:53:38 AM GMT+5:30,25,Male,Always,Sometimes,Always,Sometimes,Often,Always,Sometimes,05-Jun,Often,Yes,Weekly,Sleeping,4
+2026/03/29 7:53:38 AM GMT+5:30,40,Female,Sometimes,Always,Often,Sometimes,Always,Often,No,07-Aug,Sometimes,Yes,Never,Sleeping,5
+2026/03/29 7:53:38 AM GMT+5:30,44,Prefer not to say,Never,Always,Always,Sometimes,Always,Often,Yes,More than 8,Sometimes,No,Rarely,Music/Entertainment,3
+2026/03/29 7:53:38 AM GMT+5:30,39,Male,Sometimes,Often,Always,Yes,Sometimes,Sometimes,Yes,07-Aug,Often,Yes,Rarely,Other,4
+2026/03/29 7:53:38 AM GMT+5:30,28,Female,Sometimes,Never,Sometimes,Sometimes,Never,Rarely,Yes,More than 8,Always,Yes,Rarely,Avoiding problems,4
+2026/03/29 7:53:38 AM GMT+5:30,25,Male,Sometimes,Sometimes,Always,Yes,Sometimes,Sometimes,No,Less than 5,Sometimes,No,Weekly,Avoiding problems,3
+2026/03/29 7:53:39 AM GMT+5:30,24,Male,Sometimes,Often,Often,Yes,Sometimes,Often,Yes,07-Aug,Often,No,Weekly,Avoiding problems,5
+2026/03/29 7:53:39 AM GMT+5:30,49,Male,Sometimes,Often,Often,Yes,Often,Always,Sometimes,Less than 5,Always,No,Weekly,Other,4
+2026/03/29 7:53:39 AM GMT+5:30,47,Male,Always,Always,Always,Often,Often,Always,Often,Less than 5 hours,Always,No,Rarely,I don’t cope well,Very Poor
+2026/03/29 7:53:39 AM GMT+5:30,30,Prefer not to say,Sometimes,Sometimes,Never,Sometimes,Often,Rarely,No,More than 8,Sometimes,Yes,Weekly,Talking to someone,5
+2026/03/29 7:53:39 AM GMT+5:30,28,Prefer not to say,Often,Sometimes,Always,Yes,Sometimes,Sometimes,Sometimes,07-Aug,Often,No,Daily,Talking to someone,2
+2026/03/29 7:53:39 AM GMT+5:30,55,Male,Always,Always,Always,Often,Often,Always,Often,Less than 5 hours,Always,No,Rarely,I don’t cope well,Very Poor
+2026/03/29 7:53:39 AM GMT+5:30,58,Prefer not to say,Sometimes,Always,Sometimes,No,Often,Often,Sometimes,More than 8,Sometimes,Yes,Weekly,Avoiding problems,2
+2026/03/29 7:53:39 AM GMT+5:30,37,Male,Always,Often,Sometimes,Yes,Always,Always,No,Less than 5,Sometimes,No,Weekly,Music/Entertainment,5
+2026/03/29 7:53:39 AM GMT+5:30,20,Female,Sometimes,Often,Sometimes,Sometimes,Sometimes,Often,Sometimes,07-Aug,Sometimes,Yes,Rarely,Avoiding problems,3
+2026/03/29 7:53:39 AM GMT+5:30,57,Female,Sometimes,Never,Often,Sometimes,Often,Sometimes,Yes,07-Aug,Always,Yes,Never,Other,3
+2026/03/29 7:53:40 AM GMT+5:30,43,Male,Never,Often,Often,Sometimes,Never,Often,Yes,07-Aug,Never,No,Rarely,Exercise,5
+2026/03/29 7:53:40 AM GMT+5:30,52,Female,Never,Never,Often,Yes,Often,Sometimes,No,07-Aug,Sometimes,Yes,Daily,Music/Entertainment,3
+2026/03/29 7:53:40 AM GMT+5:30,29,Male,Always,Always,Always,Often,Often,Always,Often,Less than 5 hours,Always,No,Rarely,I don’t cope well,Very Poor
+2026/03/29 7:53:40 AM GMT+5:30,18,Female,Always,Sometimes,Sometimes,Sometimes,Sometimes,Often,Yes,Less than 5,Sometimes,Yes,Daily,Exercise,5
+2026/03/29 7:54:45 AM GMT+5:30,25,Male,Sometimes,Sometimes,Sometimes,Yes,Sometimes,Sometimes,Yes,07-Aug,Sometimes,Yes,Weekly,Exercise,3
+2026/03/29 7:55:31 AM GMT+5:30,38,Male,Always,Always,Always,Often,Often,Always,Often,Less than 5 hours,Always,No,Rarely,I don’t cope well,Very Poor
+2026/03/29 7:55:31 AM GMT+5:30,38,Male,Often,Often,Never,Sometimes,Often,Sometimes,Sometimes,07-Aug,Often,Yes,Daily,Sleeping,3
+2026/03/29 7:55:31 AM GMT+5:30,29,Male,Always,Always,Always,Often,Often,Always,Often,Less than 5 hours,Always,No,Rarely,I don’t cope well,Very Poor
+2026/03/29 7:55:31 AM GMT+5:30,23,Male,Sometimes,Always,Sometimes,Sometimes,Often,Always,No,07-Aug,Often,Yes,Never,Avoiding problems,4
+2026/03/29 7:55:31 AM GMT+5:30,29,Female,Never,Never,Sometimes,Sometimes,Sometimes,Always,Sometimes,Less than 5,Often,Sometimes,Rarely,Talking to someone,4
+2026/03/29 7:55:31 AM GMT+5:30,59,Prefer not to say,Often,Sometimes,Often,Yes,Often,Sometimes,Sometimes,07-Aug,Never,Sometimes,Rarely,Other,2
+2026/03/29 7:55:31 AM GMT+5:30,28,Female,Sometimes,Often,Always,Yes,Often,Always,Yes,Less than 5,Never,No,Rarely,Other,3
+2026/03/29 7:55:31 AM GMT+5:30,21,Male,Never,Often,Always,Sometimes,Sometimes,Rarely,No,More than 8,Sometimes,No,Daily,Avoiding problems,2
+2026/03/29 7:55:31 AM GMT+5:30,29,Male,Sometimes,Never,Never,No,Sometimes,Always,Sometimes,05-Jun,Sometimes,No,Weekly,Avoiding problems,4
+2026/03/29 7:55:31 AM GMT+5:30,39,Female,Often,Often,Sometimes,Yes,Often,Rarely,Sometimes,Less than 5,Often,Yes,Weekly,Music/Entertainment,2
+2026/03/29 7:55:31 AM GMT+5:30,33,Male,Always,Always,Always,Often,Often,Always,Often,Less than 5 hours,Always,No,Rarely,I don’t cope well,Very Poor
+2026/03/29 7:55:31 AM GMT+5:30,31,Female,Often,Sometimes,Sometimes,No,Sometimes,Sometimes,No,07-Aug,Sometimes,Sometimes,Never,Avoiding problems,5
+2026/03/29 7:55:31 AM GMT+5:30,37,Female,Sometimes,Sometimes,Always,Sometimes,Often,Often,Yes,07-Aug,Always,No,Weekly,Sleeping,3
+2026/03/29 7:55:31 AM GMT+5:30,60,Male,Sometimes,Often,Sometimes,No,Always,Often,Yes,Less than 5,Sometimes,No,Rarely,Talking to someone,3
+2026/03/29 7:55:31 AM GMT+5:30,20,Prefer not to say,Often,Sometimes,Never,No,Sometimes,Always,No,07-Aug,Often,Sometimes,Weekly,Avoiding problems,4
+2026/03/29 7:55:32 AM GMT+5:30,32,Female,Sometimes,Always,Always,No,Sometimes,Sometimes,Yes,07-Aug,Often,Sometimes,Daily,Talking to someone,5
+2026/03/29 7:55:32 AM GMT+5:30,25,Female,Sometimes,Never,Never,Yes,Sometimes,Often,Sometimes,05-Jun,Sometimes,Sometimes,Rarely,Avoiding problems,2
+2026/03/29 7:55:32 AM GMT+5:30,21,Male,Always,Often,Sometimes,Sometimes,Never,Sometimes,Yes,05-Jun,Often,Yes,Never,Exercise,3
+2026/03/29 7:55:32 AM GMT+5:30,26,Female,Always,Always,Always,Often,Often,Always,Often,Less than 5 hours,Always,No,Rarely,I don’t cope well,Very Poor
+2026/03/29 7:55:32 AM GMT+5:30,25,Female,Always,Always,Always,Often,Often,Always,Often,Less than 5 hours,Always,No,Rarely,I don’t cope well,Very Poor
+2026/03/29 7:55:32 AM GMT+5:30,18,Male,Always,Always,Always,Often,Often,Always,Often,Less than 5 hours,Always,No,Rarely,I don’t cope well,Very Poor
+2026/03/29 7:55:32 AM GMT+5:30,56,Male,Often,Never,Sometimes,Sometimes,Never,Always,No,05-Jun,Often,Yes,Daily,Avoiding problems,2
+2026/03/29 7:55:32 AM GMT+5:30,45,Male,Often,Sometimes,Often,Sometimes,Often,Sometimes,Yes,More than 8,Never,No,Never,Talking to someone,5
+2026/03/29 7:55:32 AM GMT+5:30,54,Male,Sometimes,Often,Never,Sometimes,Never,Sometimes,No,07-Aug,Often,Yes,Never,Music/Entertainment,3
+2026/03/29 7:55:32 AM GMT+5:30,27,Non - binary,Always,Often,Sometimes,Sometimes,Often,Rarely,Sometimes,05-Jun,Sometimes,Yes,Daily,Music/Entertainment,3
+2026/03/29 7:55:32 AM GMT+5:30,21,Male,Sometimes,Always,Sometimes,Sometimes,Sometimes,Always,No,More than 8,Often,Sometimes,Weekly,Avoiding problems,5
+2026/03/29 7:55:32 AM GMT+5:30,33,Male,Always,Always,Always,Often,Often,Always,Often,Less than 5 hours,Always,No,Rarely,I don’t cope well,Very Poor
+2026/03/29 7:55:32 AM GMT+5:30,18,Male,Always,Always,Always,Often,Often,Always,Often,Less than 5 hours,Always,No,Rarely,I don’t cope well,Very Poor
+2026/03/29 7:55:33 AM GMT+5:30,22,Female,Sometimes,Sometimes,Often,No,Always,Rarely,No,More than 8,Sometimes,Sometimes,Daily,Sleeping,4
+2026/03/29 7:55:33 AM GMT+5:30,24,Male,Often,Always,Often,No,Often,Often,No,Less than 5,Always,No,Daily,Music/Entertainment,2
+2026/03/29 7:55:33 AM GMT+5:30,50,Female,Sometimes,Often,Sometimes,No,Always,Always,Yes,07-Aug,Always,Sometimes,Rarely,Talking to someone,4
+2026/03/29 7:55:33 AM GMT+5:30,44,Female,Sometimes,Sometimes,Never,Sometimes,Sometimes,Sometimes,No,07-Aug,Never,Yes,Weekly,Music/Entertainment,3
+2026/03/29 7:55:33 AM GMT+5:30,25,Male,Sometimes,Often,Often,Sometimes,Often,Sometimes,Yes,Less than 5,Sometimes,Sometimes,Daily,Avoiding problems,3
+2026/03/29 7:55:33 AM GMT+5:30,52,Female,Always,Always,Always,Often,Often,Always,Often,Less than 5 hours,Always,No,Rarely,I don’t cope well,Very Poor
+2026/03/29 7:55:33 AM GMT+5:30,25,Male,Always,Often,Never,Sometimes,Always,Often,No,More than 8,Often,Sometimes,Rarely,Exercise,2
+2026/03/29 7:55:33 AM GMT+5:30,20,Prefer not to say,Always,Sometimes,Sometimes,Yes,Always,Rarely,Yes,More than 8,Sometimes,Sometimes,Never,Sleeping,4
+2026/03/29 7:55:33 AM GMT+5:30,26,Female,Often,Sometimes,Often,Yes,Always,Sometimes,No,05-Jun,Sometimes,Yes,Weekly,Avoiding problems,3
+2026/03/29 7:55:33 AM GMT+5:30,57,Female,Often,Never,Never,Sometimes,Often,Rarely,Yes,07-Aug,Often,No,Weekly,Avoiding problems,4
+2026/03/29 7:55:33 AM GMT+5:30,30,Female,Sometimes,Never,Sometimes,Sometimes,Sometimes,Sometimes,Yes,More than 8,Never,Yes,Rarely,Talking to someone,3
+2026/03/29 7:55:33 AM GMT+5:30,27,Male,Often,Sometimes,Often,Yes,Sometimes,Often,Sometimes,07-Aug,Sometimes,Sometimes,Never,Sleeping,3
+2026/03/29 7:55:33 AM GMT+5:30,48,Non - binary,Always,Always,Often,No,Never,Sometimes,Yes,Less than 5,Sometimes,Yes,Rarely,Talking to someone,2
+2026/03/29 7:55:34 AM GMT+5:30,25,Female,Always,Always,Always,Often,Often,Always,Often,Less than 5 hours,Always,No,Rarely,I don’t cope well,Very Poor
+2026/03/29 7:55:34 AM GMT+5:30,29,Male,Always,Always,Always,Often,Often,Always,Often,Less than 5 hours,Always,No,Rarely,I don’t cope well,Very Poor
+2026/03/29 7:55:34 AM GMT+5:30,23,Female,Always,Always,Always,Often,Often,Always,Often,Less than 5 hours,Always,No,Rarely,I don’t cope well,Very Poor
+2026/03/29 7:55:34 AM GMT+5:30,27,Male,Often,Sometimes,Sometimes,Yes,Often,Sometimes,Sometimes,More than 8,Sometimes,Yes,Daily,Other,3
+2026/03/29 7:55:34 AM GMT+5:30,19,Prefer not to say,Often,Never,Sometimes,Yes,Sometimes,Often,Sometimes,07-Aug,Never,No,Rarely,Talking to someone,1
+2026/03/29 7:55:34 AM GMT+5:30,47,Female,Always,Always,Always,Often,Often,Always,Often,Less than 5 hours,Always,No,Rarely,I don’t cope well,Very Poor
+2026/03/29 7:55:34 AM GMT+5:30,24,Male,Often,Sometimes,Sometimes,Yes,Sometimes,Often,Yes,07-Aug,Never,Sometimes,Rarely,Avoiding problems,2
+2026/03/29 7:55:34 AM GMT+5:30,52,Male,Always,Always,Always,Often,Often,Always,Often,Less than 5 hours,Always,No,Rarely,I don’t cope well,Very Poor
+2026/03/29 7:55:34 AM GMT+5:30,48,Female,Sometimes,Often,Often,No,Never,Often,Sometimes,More than 8,Sometimes,Yes,Daily,Talking to someone,3
+2026/03/29 7:55:34 AM GMT+5:30,32,Female,Often,Sometimes,Sometimes,Yes,Sometimes,Sometimes,No,05-Jun,Always,No,Daily,Sleeping,4
+2026/03/29 7:55:34 AM GMT+5:30,25,Male,Always,Always,Always,Often,Often,Always,Often,Less than 5 hours,Always,No,Rarely,I don’t cope well,Very Poor
+2026/03/29 7:55:34 AM GMT+5:30,26,Prefer not to say,Sometimes,Sometimes,Never,No,Often,Often,Sometimes,07-Aug,Often,Sometimes,Weekly,Music/Entertainment,3
+2026/03/29 7:55:34 AM GMT+5:30,26,Female,Sometimes,Never,Always,Yes,Never,Always,Yes,More than 8,Sometimes,Sometimes,Daily,Exercise,3
+2026/03/29 7:55:34 AM GMT+5:30,23,Prefer not to say,Always,Always,Always,Often,Often,Always,Often,Less than 5 hours,Always,No,Rarely,I don’t cope well,Very Poor
+2026/03/29 7:55:34 AM GMT+5:30,38,Female,Always,Often,Sometimes,Yes,Often,Always,Sometimes,05-Jun,Often,No,Rarely,Music/Entertainment,3
+2026/03/29 7:55:34 AM GMT+5:30,18,Male,Often,Always,Often,Sometimes,Often,Rarely,Yes,07-Aug,Sometimes,Sometimes,Never,Avoiding problems,4
+2026/03/29 7:55:34 AM GMT+5:30,26,Male,Often,Always,Often,Yes,Always,Often,Sometimes,07-Aug,Often,Sometimes,Daily,Other,2
+2026/03/29 7:55:35 AM GMT+5:30,23,Female,Often,Often,Always,No,Always,Often,No,07-Aug,Often,Sometimes,Never,Avoiding problems,3
+2026/03/29 7:55:35 AM GMT+5:30,32,Female,Always,Always,Always,Often,Often,Always,Often,Less than 5 hours,Always,No,Rarely,I don’t cope well,Very Poor
+2026/03/29 7:55:35 AM GMT+5:30,56,Male,Sometimes,Sometimes,Sometimes,Sometimes,Often,Often,Yes,More than 8,Often,Sometimes,Rarely,Avoiding problems,4
+2026/03/29 7:55:35 AM GMT+5:30,20,Non - binary,Often,Sometimes,Sometimes,Sometimes,Often,Sometimes,No,More than 8,Often,Sometimes,Weekly,Music/Entertainment,5
+2026/03/29 7:55:35 AM GMT+5:30,19,Prefer not to say,Often,Always,Always,No,Never,Always,No,07-Aug,Always,Yes,Weekly,Other,5
+2026/03/29 7:55:35 AM GMT+5:30,33,Female,Never,Never,Sometimes,Yes,Often,Often,Sometimes,Less than 5,Sometimes,Sometimes,Daily,Exercise,5
+2026/03/29 7:55:35 AM GMT+5:30,52,Male,Sometimes,Sometimes,Often,Sometimes,Often,Sometimes,Sometimes,Less than 5,Often,Sometimes,Weekly,Exercise,4
+2026/03/29 7:55:35 AM GMT+5:30,29,Female,Sometimes,Never,Always,Yes,Never,Often,Sometimes,Less than 5,Always,Sometimes,Daily,Music/Entertainment,3
+2026/03/29 7:55:35 AM GMT+5:30,56,Female,Sometimes,Sometimes,Never,Yes,Sometimes,Often,Yes,05-Jun,Always,Yes,Daily,Exercise,4
+2026/03/29 7:55:35 AM GMT+5:30,31,Female,Sometimes,Sometimes,Always,No,Never,Rarely,No,07-Aug,Sometimes,No,Rarely,Avoiding problems,3
+2026/03/29 7:55:35 AM GMT+5:30,28,Male,Always,Often,Always,No,Sometimes,Rarely,Yes,05-Jun,Often,Yes,Never,Sleeping,4
+2026/03/29 7:55:35 AM GMT+5:30,45,Female,Sometimes,Never,Sometimes,No,Sometimes,Often,Yes,Less than 5,Never,Sometimes,Daily,Music/Entertainment,4
+2026/03/29 7:55:35 AM GMT+5:30,21,Male,Sometimes,Sometimes,Never,Sometimes,Often,Often,Sometimes,More than 8,Often,Sometimes,Rarely,Talking to someone,4
+2026/03/29 7:55:36 AM GMT+5:30,38,Prefer not to say,Always,Always,Always,Often,Often,Always,Often,Less than 5 hours,Always,No,Rarely,I don’t cope well,Very Poor
+2026/03/29 7:55:36 AM GMT+5:30,18,Female,Sometimes,Often,Sometimes,No,Sometimes,Often,Yes,More than 8,Often,No,Weekly,Sleeping,4
+2026/03/29 7:55:36 AM GMT+5:30,41,Female,Always,Always,Always,Often,Often,Always,Often,Less than 5 hours,Always,No,Rarely,I don’t cope well,Very Poor
+2026/03/29 7:55:36 AM GMT+5:30,27,Female,Always,Always,Always,Often,Often,Always,Often,Less than 5 hours,Always,No,Rarely,I don’t cope well,Very Poor
+2026/03/29 7:55:36 AM GMT+5:30,20,Male,Often,Sometimes,Sometimes,Sometimes,Never,Sometimes,No,07-Aug,Sometimes,Sometimes,Never,Avoiding problems,3
+2026/03/29 7:55:36 AM GMT+5:30,22,Male,Always,Often,Always,Yes,Sometimes,Often,Sometimes,05-Jun,Always,Yes,Never,Music/Entertainment,4
+2026/03/29 7:55:36 AM GMT+5:30,41,Female,Sometimes,Often,Sometimes,No,Often,Often,Sometimes,07-Aug,Sometimes,Yes,Weekly,Music/Entertainment,3
+2026/03/29 7:55:36 AM GMT+5:30,49,Non - binary,Often,Often,Sometimes,No,Never,Sometimes,No,07-Aug,Always,Yes,Weekly,Music/Entertainment,2
+2026/03/29 7:55:36 AM GMT+5:30,23,Non - binary,Sometimes,Never,Sometimes,Yes,Sometimes,Sometimes,Yes,07-Aug,Sometimes,No,Weekly,Talking to someone,4
+2026/03/29 7:55:36 AM GMT+5:30,30,Female,Sometimes,Sometimes,Sometimes,Yes,Often,Always,Sometimes,07-Aug,Often,Yes,Rarely,Other,4
+2026/03/29 7:55:36 AM GMT+5:30,37,Male,Always,Never,Often,Yes,Sometimes,Always,Yes,More than 8,Often,Sometimes,Weekly,Music/Entertainment,3
+2026/03/29 7:55:36 AM GMT+5:30,49,Male,Sometimes,Sometimes,Never,No,Often,Sometimes,Sometimes,05-Jun,Sometimes,Sometimes,Rarely,Talking to someone,4
+2026/03/29 7:55:36 AM GMT+5:30,19,Female,Always,Sometimes,Always,No,Always,Sometimes,No,More than 8,Often,Sometimes,Daily,Music/Entertainment,4
+2026/03/29 7:55:36 AM GMT+5:30,19,Non - binary,Sometimes,Sometimes,Never,No,Often,Often,Sometimes,05-Jun,Never,Yes,Daily,Sleeping,5
+2026/03/29 7:55:36 AM GMT+5:30,25,Male,Always,Always,Always,Often,Often,Always,Often,Less than 5 hours,Always,No,Rarely,I don’t cope well,Very Poor
+2026/03/29 7:55:37 AM GMT+5:30,27,Female,Always,Always,Always,Often,Often,Always,Often,Less than 5 hours,Always,No,Rarely,I don’t cope well,Very Poor
+2026/03/29 7:55:37 AM GMT+5:30,57,Male,Always,Always,Always,Often,Often,Always,Often,Less than 5 hours,Always,No,Rarely,I don’t cope well,Very Poor
+2026/03/29 7:55:37 AM GMT+5:30,52,Female,Sometimes,Sometimes,Sometimes,Yes,Sometimes,Sometimes,Yes,05-Jun,Sometimes,Yes,Weekly,Talking to someone,4
+2026/03/29 7:55:37 AM GMT+5:30,20,Female,Always,Always,Always,Often,Often,Always,Often,Less than 5 hours,Always,No,Rarely,I don’t cope well,Very Poor
+2026/03/29 7:55:37 AM GMT+5:30,23,Male,Never,Always,Sometimes,No,Often,Sometimes,No,07-Aug,Never,No,Daily,Music/Entertainment,5
+2026/03/29 7:55:37 AM GMT+5:30,22,Male,Always,Never,Always,No,Often,Often,Sometimes,07-Aug,Always,Yes,Weekly,Music/Entertainment,5
+2026/03/29 7:55:37 AM GMT+5:30,18,Prefer not to say,Sometimes,Sometimes,Always,Sometimes,Often,Always,No,More than 8,Sometimes,Sometimes,Weekly,Exercise,4
+2026/03/29 7:55:37 AM GMT+5:30,53,Male,Often,Often,Sometimes,No,Sometimes,Often,No,More than 8,Sometimes,Sometimes,Rarely,Other,3
+2026/03/29 7:55:37 AM GMT+5:30,27,Male,Sometimes,Sometimes,Sometimes,Yes,Never,Always,Sometimes,05-Jun,Sometimes,Sometimes,Rarely,Sleeping,5
+2026/03/29 7:55:37 AM GMT+5:30,27,Female,Always,Always,Always,Often,Often,Always,Often,Less than 5 hours,Always,No,Rarely,I don’t cope well,Very Poor
+2026/03/29 7:55:37 AM GMT+5:30,18,Male,Always,Always,Always,Often,Often,Always,Often,Less than 5 hours,Always,No,Rarely,I don’t cope well,Very Poor
+2026/03/29 7:55:37 AM GMT+5:30,31,Male,Sometimes,Always,Often,Sometimes,Always,Sometimes,Yes,05-Jun,Often,Yes,Never,Exercise,2
+2026/03/29 7:55:38 AM GMT+5:30,54,Male,Always,Sometimes,Often,Sometimes,Sometimes,Sometimes,Yes,05-Jun,Often,Yes,Never,Exercise,4
+2026/03/29 7:55:38 AM GMT+5:30,28,Prefer not to say,Sometimes,Often,Often,Yes,Sometimes,Always,Yes,05-Jun,Often,No,Weekly,Avoiding problems,3
+2026/03/29 7:55:38 AM GMT+5:30,30,Male,Always,Always,Always,Often,Often,Always,Often,Less than 5 hours,Always,No,Rarely,I don’t cope well,Very Poor
+2026/03/29 7:55:38 AM GMT+5:30,26,Male,Always,Often,Always,No,Often,Sometimes,Sometimes,05-Jun,Often,Sometimes,Daily,Other,4
+2026/03/29 7:55:38 AM GMT+5:30,18,Male,Never,Always,Sometimes,No,Never,Often,No,More than 8,Often,Yes,Daily,Other,3
+2026/03/29 7:55:38 AM GMT+5:30,54,Male,Always,Always,Always,Often,Often,Always,Often,Less than 5 hours,Always,No,Rarely,I don’t cope well,Very Poor
+2026/03/29 7:55:38 AM GMT+5:30,22,Prefer not to say,Sometimes,Often,Sometimes,Sometimes,Always,Always,Yes,More than 8,Sometimes,Yes,Rarely,Sleeping,1
+2026/03/29 7:55:38 AM GMT+5:30,25,Female,Sometimes,Often,Sometimes,Sometimes,Sometimes,Rarely,Sometimes,07-Aug,Never,No,Daily,Talking to someone,3
+2026/03/29 7:55:38 AM GMT+5:30,26,Female,Always,Often,Often,Yes,Sometimes,Always,No,07-Aug,Often,No,Rarely,Sleeping,5
+2026/03/29 7:55:38 AM GMT+5:30,26,Prefer not to say,Always,Always,Never,Sometimes,Sometimes,Often,No,05-Jun,Often,Yes,Rarely,Talking to someone,4
+2026/03/29 7:55:38 AM GMT+5:30,49,Male,Always,Sometimes,Never,Yes,Sometimes,Often,No,07-Aug,Often,No,Weekly,Sleeping,3
+2026/03/29 7:55:38 AM GMT+5:30,21,Male,Never,Always,Always,Yes,Sometimes,Sometimes,Yes,07-Aug,Sometimes,Sometimes,Rarely,Talking to someone,1
+2026/03/29 7:55:38 AM GMT+5:30,44,Female,Often,Sometimes,Always,Sometimes,Never,Often,Sometimes,Less than 5,Often,Sometimes,Weekly,Avoiding problems,2
+2026/03/29 7:55:38 AM GMT+5:30,60,Female,Sometimes,Often,Often,Sometimes,Often,Always,Yes,05-Jun,Often,Yes,Rarely,Exercise,4
+2026/03/29 7:55:39 AM GMT+5:30,36,Female,Sometimes,Always,Always,No,Always,Sometimes,Sometimes,07-Aug,Always,Yes,Weekly,Music/Entertainment,4
+2026/03/29 7:55:39 AM GMT+5:30,18,Male,Often,Sometimes,Often,Yes,Sometimes,Rarely,No,Less than 5,Sometimes,No,Daily,Talking to someone,3
+2026/03/29 7:55:39 AM GMT+5:30,57,Female,Sometimes,Sometimes,Never,Sometimes,Always,Always,Sometimes,05-Jun,Often,Yes,Weekly,Avoiding problems,5
+2026/03/29 7:55:39 AM GMT+5:30,52,Male,Always,Always,Always,Often,Often,Always,Often,Less than 5 hours,Always,No,Rarely,I don’t cope well,Very Poor
+2026/03/29 7:55:39 AM GMT+5:30,26,Female,Always,Always,Always,Often,Often,Always,Often,Less than 5 hours,Always,No,Rarely,I don’t cope well,Very Poor
+2026/03/29 7:55:39 AM GMT+5:30,46,Male,Always,Always,Always,Often,Often,Always,Often,Less than 5 hours,Always,No,Rarely,I don’t cope well,Very Poor
+2026/03/29 7:55:39 AM GMT+5:30,37,Prefer not to say,Often,Often,Never,Yes,Always,Sometimes,Yes,07-Aug,Always,Yes,Weekly,Avoiding problems,3
+2026/03/29 7:55:39 AM GMT+5:30,22,Prefer not to say,Always,Always,Always,Often,Often,Always,Often,Less than 5 hours,Always,No,Rarely,I don’t cope well,Very Poor
+2026/03/29 7:55:39 AM GMT+5:30,53,Male,Never,Never,Often,Yes,Always,Often,Sometimes,07-Aug,Often,No,Weekly,Music/Entertainment,2
+2026/03/29 7:55:39 AM GMT+5:30,34,Prefer not to say,Often,Never,Never,Sometimes,Sometimes,Often,Sometimes,07-Aug,Sometimes,No,Rarely,Sleeping,4
+2026/03/29 7:55:39 AM GMT+5:30,29,Female,Always,Always,Always,Often,Often,Always,Often,Less than 5 hours,Always,No,Rarely,I don’t cope well,Very Poor
+2026/03/29 7:55:39 AM GMT+5:30,54,Prefer not to say,Sometimes,Sometimes,Never,No,Often,Sometimes,No,07-Aug,Never,Yes,Weekly,Music/Entertainment,4
+2026/03/29 7:55:39 AM GMT+5:30,26,Male,Sometimes,Sometimes,Sometimes,Sometimes,Always,Often,No,07-Aug,Always,No,Weekly,Avoiding problems,3
+2026/03/29 7:55:39 AM GMT+5:30,40,Male,Sometimes,Often,Often,No,Often,Always,Sometimes,Less than 5,Always,Sometimes,Weekly,Exercise,3
+2026/03/29 7:55:39 AM GMT+5:30,37,Female,Sometimes,Sometimes,Sometimes,Sometimes,Often,Rarely,No,07-Aug,Sometimes,Sometimes,Weekly,Avoiding problems,2
+2026/03/29 7:55:40 AM GMT+5:30,57,Male,Sometimes,Sometimes,Often,Sometimes,Always,Often,Yes,More than 8,Sometimes,Yes,Daily,Other,3
+2026/03/29 7:55:40 AM GMT+5:30,22,Male,Often,Sometimes,Sometimes,Yes,Sometimes,Sometimes,Sometimes,05-Jun,Sometimes,Sometimes,Daily,Sleeping,4
+2026/03/29 7:55:40 AM GMT+5:30,28,Female,Often,Often,Sometimes,Yes,Often,Sometimes,Sometimes,Less than 5,Never,Yes,Daily,Exercise,1
+2026/03/29 7:55:40 AM GMT+5:30,21,Prefer not to say,Always,Always,Always,Often,Often,Always,Often,Less than 5 hours,Always,No,Rarely,I don’t cope well,Very Poor
+2026/03/29 7:55:40 AM GMT+5:30,27,Female,Often,Always,Never,Sometimes,Often,Often,No,07-Aug,Sometimes,Yes,Rarely,Avoiding problems,3
+2026/03/29 7:55:40 AM GMT+5:30,60,Male,Often,Always,Often,Yes,Often,Always,Sometimes,07-Aug,Sometimes,No,Daily,Music/Entertainment,4
+2026/03/29 7:55:40 AM GMT+5:30,39,Female,Often,Always,Never,No,Never,Often,No,07-Aug,Sometimes,Sometimes,Daily,Music/Entertainment,3
+2026/03/29 7:55:40 AM GMT+5:30,27,Prefer not to say,Often,Never,Always,No,Often,Often,Sometimes,Less than 5,Sometimes,Sometimes,Rarely,Music/Entertainment,4
+2026/03/29 7:55:40 AM GMT+5:30,18,Female,Always,Never,Sometimes,No,Often,Sometimes,No,07-Aug,Sometimes,Yes,Rarely,Sleeping,3
+2026/03/29 7:55:40 AM GMT+5:30,32,Male,Sometimes,Often,Never,Sometimes,Never,Sometimes,Sometimes,07-Aug,Always,Yes,Weekly,Sleeping,2
+2026/03/29 7:55:40 AM GMT+5:30,29,Prefer not to say,Often,Always,Often,No,Often,Often,Sometimes,Less than 5,Sometimes,Sometimes,Daily,Other,3
+2026/03/29 7:55:40 AM GMT+5:30,27,Female,Often,Never,Sometimes,Yes,Often,Always,No,05-Jun,Often,Sometimes,Rarely,Music/Entertainment,2
+2026/03/29 7:55:41 AM GMT+5:30,41,Female,Always,Always,Always,Often,Often,Always,Often,Less than 5 hours,Always,No,Rarely,I don’t cope well,Very Poor
+2026/03/29 7:55:41 AM GMT+5:30,18,Prefer not to say,Always,Sometimes,Sometimes,No,Sometimes,Often,No,Less than 5,Often,Yes,Rarely,Avoiding problems,3
+2026/03/29 7:55:41 AM GMT+5:30,19,Prefer not to say,Often,Sometimes,Often,No,Sometimes,Always,Sometimes,More than 8,Sometimes,Yes,Rarely,Music/Entertainment,2
+2026/03/29 7:55:41 AM GMT+5:30,46,Non - binary,Never,Often,Always,Sometimes,Sometimes,Sometimes,Yes,07-Aug,Sometimes,Yes,Rarely,Other,2
+2026/03/29 7:55:41 AM GMT+5:30,39,Male,Always,Always,Never,Sometimes,Often,Sometimes,No,07-Aug,Sometimes,Yes,Rarely,Other,3
+2026/03/29 7:55:41 AM GMT+5:30,19,Female,Always,Always,Always,Often,Often,Always,Often,Less than 5 hours,Always,No,Rarely,I don’t cope well,Very Poor
+2026/03/29 7:55:41 AM GMT+5:30,31,Prefer not to say,Sometimes,Sometimes,Always,Sometimes,Always,Often,Yes,07-Aug,Often,No,Never,Talking to someone,2
+2026/03/29 7:55:41 AM GMT+5:30,20,Female,Often,Sometimes,Sometimes,Sometimes,Sometimes,Sometimes,Sometimes,05-Jun,Often,Yes,Weekly,Music/Entertainment,3
+2026/03/29 7:55:41 AM GMT+5:30,29,Female,Always,Always,Always,Yes,Often,Often,Yes,More than 8,Often,Yes,Never,Avoiding problems,2
+2026/03/29 7:55:41 AM GMT+5:30,19,Male,Often,Sometimes,Often,No,Sometimes,Often,No,05-Jun,Always,Yes,Never,Music/Entertainment,3
+2026/03/29 7:55:41 AM GMT+5:30,49,Prefer not to say,Often,Sometimes,Never,No,Often,Always,Sometimes,Less than 5,Sometimes,Yes,Never,Talking to someone,3
+2026/03/29 7:55:41 AM GMT+5:30,59,Male,Always,Often,Sometimes,Sometimes,Often,Often,Yes,05-Jun,Often,No,Daily,Music/Entertainment,2
+2026/03/29 7:55:41 AM GMT+5:30,21,Male,Always,Sometimes,Sometimes,No,Sometimes,Often,Sometimes,05-Jun,Always,Yes,Never,Other,3
+2026/03/29 7:55:41 AM GMT+5:30,38,Prefer not to say,Often,Often,Often,No,Often,Often,No,05-Jun,Sometimes,Yes,Rarely,Music/Entertainment,3
+2026/03/29 7:55:41 AM GMT+5:30,23,Prefer not to say,Often,Never,Sometimes,No,Often,Always,Yes,More than 8,Sometimes,Sometimes,Weekly,Exercise,3
+2026/03/29 7:55:41 AM GMT+5:30,25,Male,Often,Sometimes,Never,Sometimes,Never,Sometimes,No,05-Jun,Never,Sometimes,Never,Music/Entertainment,4
+2026/03/29 7:55:41 AM GMT+5:30,32,Prefer not to say,Always,Always,Always,Often,Often,Always,Often,Less than 5 hours,Always,No,Rarely,I don’t cope well,Very Poor
+2026/03/29 7:55:41 AM GMT+5:30,60,Female,Always,Sometimes,Often,Yes,Sometimes,Always,Sometimes,More than 8,Often,Sometimes,Never,Music/Entertainment,3
+2026/03/29 7:55:41 AM GMT+5:30,18,Female,Sometimes,Often,Never,Yes,Always,Often,Yes,07-Aug,Sometimes,Sometimes,Daily,Exercise,3
+2026/03/29 7:55:42 AM GMT+5:30,43,Female,Always,Always,Always,Often,Often,Always,Often,Less than 5 hours,Always,No,Rarely,I don’t cope well,Very Poor
+2026/03/29 7:55:42 AM GMT+5:30,25,Male,Never,Often,Sometimes,No,Often,Sometimes,Yes,05-Jun,Sometimes,Yes,Never,Sleeping,3
+2026/03/29 7:55:42 AM GMT+5:30,37,Prefer not to say,Sometimes,Sometimes,Often,Yes,Often,Always,No,07-Aug,Often,Sometimes,Rarely,Talking to someone,3
+2026/03/29 7:55:42 AM GMT+5:30,23,Male,Sometimes,Sometimes,Often,Yes,Often,Always,Yes,Less than 5,Always,Yes,Weekly,Sleeping,1
+2026/03/29 7:55:42 AM GMT+5:30,37,Female,Always,Often,Often,No,Sometimes,Often,No,07-Aug,Sometimes,Yes,Rarely,Other,5
+2026/03/29 7:55:42 AM GMT+5:30,22,Prefer not to say,Sometimes,Never,Sometimes,No,Sometimes,Rarely,No,05-Jun,Often,Yes,Never,Exercise,3
+2026/03/29 7:55:42 AM GMT+5:30,32,Non - binary,Sometimes,Always,Sometimes,Yes,Always,Sometimes,No,More than 8,Sometimes,Yes,Rarely,Talking to someone,2
+2026/03/29 7:55:42 AM GMT+5:30,37,Female,Often,Always,Always,No,Sometimes,Sometimes,Sometimes,07-Aug,Sometimes,Sometimes,Weekly,Sleeping,4
+2026/03/29 7:55:42 AM GMT+5:30,27,Male,Sometimes,Sometimes,Always,Sometimes,Sometimes,Sometimes,Sometimes,07-Aug,Always,No,Rarely,Talking to someone,3
+2026/03/29 7:55:42 AM GMT+5:30,32,Female,Often,Always,Never,Sometimes,Often,Sometimes,Yes,More than 8,Sometimes,Yes,Daily,Music/Entertainment,3
+2026/03/29 7:55:42 AM GMT+5:30,47,Male,Sometimes,Often,Sometimes,Sometimes,Never,Often,Sometimes,07-Aug,Sometimes,No,Weekly,Talking to someone,2
+2026/03/29 7:55:42 AM GMT+5:30,21,Female,Always,Often,Often,Yes,Sometimes,Rarely,Sometimes,Less than 5,Often,Sometimes,Weekly,Avoiding problems,2
+2026/03/29 7:55:42 AM GMT+5:30,24,Male,Always,Never,Often,Sometimes,Sometimes,Often,No,07-Aug,Sometimes,Sometimes,Weekly,Talking to someone,3
+2026/03/29 7:55:42 AM GMT+5:30,33,Prefer not to say,Sometimes,Sometimes,Sometimes,Sometimes,Sometimes,Sometimes,No,More than 8,Sometimes,Sometimes,Rarely,Talking to someone,3
+2026/03/29 7:55:42 AM GMT+5:30,27,Male,Often,Sometimes,Often,No,Never,Sometimes,No,05-Jun,Sometimes,Yes,Weekly,Other,2
+2026/03/29 7:55:43 AM GMT+5:30,52,Female,Always,Always,Always,Often,Often,Always,Often,Less than 5 hours,Always,No,Rarely,I don’t cope well,Very Poor
+2026/03/29 7:55:43 AM GMT+5:30,35,Female,Always,Always,Always,Often,Often,Always,Often,Less than 5 hours,Always,No,Rarely,I don’t cope well,Very Poor
+2026/03/29 7:55:43 AM GMT+5:30,41,Male,Often,Sometimes,Sometimes,Sometimes,Sometimes,Sometimes,No,07-Aug,Often,Yes,Weekly,Avoiding problems,5
+2026/03/29 7:55:43 AM GMT+5:30,20,Female,Never,Always,Never,Sometimes,Never,Often,Yes,07-Aug,Often,Sometimes,Weekly,Avoiding problems,5
+2026/03/29 7:55:43 AM GMT+5:30,28,Female,Sometimes,Often,Never,No,Often,Sometimes,No,07-Aug,Never,Yes,Rarely,Talking to someone,3
+2026/03/29 7:55:43 AM GMT+5:30,57,Male,Often,Never,Always,Sometimes,Often,Sometimes,Yes,05-Jun,Always,Sometimes,Weekly,Other,4
+2026/03/29 7:55:43 AM GMT+5:30,56,Female,Sometimes,Never,Sometimes,Sometimes,Often,Often,No,Less than 5,Sometimes,No,Weekly,Music/Entertainment,4
+2026/03/29 7:55:43 AM GMT+5:30,22,Male,Sometimes,Never,Always,Sometimes,Often,Rarely,Yes,Less than 5,Always,Sometimes,Daily,Music/Entertainment,4
+2026/03/29 7:55:43 AM GMT+5:30,51,Female,Often,Never,Often,Sometimes,Sometimes,Often,No,More than 8,Often,Sometimes,Weekly,Music/Entertainment,4
+2026/03/29 7:55:43 AM GMT+5:30,31,Female,Often,Often,Always,Sometimes,Sometimes,Sometimes,Yes,07-Aug,Often,Sometimes,Daily,Music/Entertainment,4
+2026/03/29 7:55:43 AM GMT+5:30,38,Male,Sometimes,Often,Sometimes,Sometimes,Sometimes,Often,Sometimes,07-Aug,Often,Sometimes,Weekly,Sleeping,4
+2026/03/29 7:55:43 AM GMT+5:30,20,Non - binary,Always,Always,Always,Often,Often,Always,Often,Less than 5 hours,Always,No,Rarely,I don’t cope well,Very Poor
+2026/03/29 7:55:43 AM GMT+5:30,18,Female,Often,Often,Sometimes,Yes,Sometimes,Sometimes,Sometimes,More than 8,Often,Yes,Daily,Sleeping,4
+2026/03/29 7:55:43 AM GMT+5:30,24,Prefer not to say,Always,Always,Always,Often,Often,Always,Often,Less than 5 hours,Always,No,Rarely,I don’t cope well,Very Poor
+2026/03/29 7:55:43 AM GMT+5:30,27,Male,Sometimes,Often,Sometimes,Sometimes,Sometimes,Always,Yes,07-Aug,Often,Yes,Never,Sleeping,4
+2026/03/29 7:55:43 AM GMT+5:30,24,Female,Never,Sometimes,Sometimes,Yes,Never,Sometimes,Sometimes,Less than 5,Often,Yes,Weekly,Talking to someone,4
+2026/03/29 7:55:43 AM GMT+5:30,26,Female,Never,Often,Sometimes,No,Often,Often,Yes,07-Aug,Always,Sometimes,Daily,Music/Entertainment,3
+2026/03/29 7:55:43 AM GMT+5:30,45,Female,Never,Always,Sometimes,Sometimes,Always,Often,Sometimes,05-Jun,Always,Yes,Daily,Talking to someone,3
+2026/03/29 7:55:43 AM GMT+5:30,30,Female,Often,Sometimes,Often,Sometimes,Sometimes,Often,Sometimes,More than 8,Often,Sometimes,Weekly,Avoiding problems,3
+2026/03/29 7:55:43 AM GMT+5:30,42,Male,Sometimes,Often,Sometimes,Sometimes,Always,Always,Yes,05-Jun,Sometimes,Yes,Weekly,Talking to someone,3
+2026/03/29 7:55:44 AM GMT+5:30,47,Female,Often,Sometimes,Sometimes,No,Never,Rarely,No,More than 8,Often,Yes,Weekly,Sleeping,3
+2026/03/29 7:55:44 AM GMT+5:30,24,Prefer not to say,Often,Often,Never,Sometimes,Often,Always,No,Less than 5,Often,Yes,Rarely,Music/Entertainment,1
+2026/03/29 7:55:44 AM GMT+5:30,28,Female,Often,Often,Often,Yes,Often,Sometimes,Yes,07-Aug,Always,No,Weekly,Music/Entertainment,4
+2026/03/29 7:55:44 AM GMT+5:30,19,Male,Sometimes,Often,Never,Sometimes,Sometimes,Always,Yes,05-Jun,Always,No,Daily,Talking to someone,4
+2026/03/29 7:55:44 AM GMT+5:30,26,Male,Sometimes,Never,Sometimes,Yes,Always,Always,Sometimes,07-Aug,Often,No,Never,Talking to someone,1
+2026/03/29 7:55:44 AM GMT+5:30,21,Female,Always,Always,Always,Often,Often,Always,Often,Less than 5 hours,Always,No,Rarely,I don’t cope well,Very Poor
+2026/03/29 7:55:44 AM GMT+5:30,44,Male,Sometimes,Sometimes,Never,Yes,Often,Sometimes,No,07-Aug,Often,Sometimes,Never,Music/Entertainment,3
+2026/03/29 7:55:44 AM GMT+5:30,27,Male,Often,Sometimes,Sometimes,No,Sometimes,Always,Sometimes,07-Aug,Often,Yes,Weekly,Exercise,4
+2026/03/29 7:55:44 AM GMT+5:30,28,Male,Sometimes,Sometimes,Sometimes,Sometimes,Often,Often,No,05-Jun,Sometimes,No,Weekly,Avoiding problems,2
+2026/03/29 7:55:44 AM GMT+5:30,27,Male,Often,Often,Often,No,Often,Rarely,Sometimes,05-Jun,Sometimes,No,Daily,Sleeping,5
+2026/03/29 7:55:44 AM GMT+5:30,47,Male,Often,Sometimes,Sometimes,Sometimes,Sometimes,Rarely,Yes,More than 8,Sometimes,No,Never,Avoiding problems,2
+2026/03/29 7:55:44 AM GMT+5:30,23,Male,Always,Always,Always,Often,Often,Always,Often,Less than 5 hours,Always,No,Rarely,I don’t cope well,Very Poor
+2026/03/29 7:55:44 AM GMT+5:30,48,Male,Always,Always,Always,Often,Often,Always,Often,Less than 5 hours,Always,No,Rarely,I don’t cope well,Very Poor
+2026/03/29 7:55:44 AM GMT+5:30,22,Male,Always,Never,Sometimes,Sometimes,Sometimes,Rarely,Yes,07-Aug,Sometimes,No,Weekly,Music/Entertainment,1
+2026/03/29 7:55:44 AM GMT+5:30,35,Female,Often,Sometimes,Always,Sometimes,Sometimes,Often,Sometimes,Less than 5,Never,Sometimes,Rarely,Music/Entertainment,4
+2026/03/29 7:55:44 AM GMT+5:30,20,Female,Always,Sometimes,Always,No,Sometimes,Always,Sometimes,07-Aug,Sometimes,Yes,Rarely,Music/Entertainment,2
+2026/03/29 7:55:45 AM GMT+5:30,32,Female,Sometimes,Sometimes,Always,No,Sometimes,Sometimes,No,Less than 5,Sometimes,Sometimes,Daily,Music/Entertainment,2
+2026/03/29 7:55:45 AM GMT+5:30,20,Female,Sometimes,Often,Sometimes,Sometimes,Sometimes,Often,Sometimes,07-Aug,Sometimes,Yes,Never,Music/Entertainment,4
+2026/03/29 7:55:45 AM GMT+5:30,25,Male,Often,Sometimes,Always,Yes,Sometimes,Sometimes,No,07-Aug,Always,Yes,Rarely,Exercise,3
+2026/03/29 7:55:45 AM GMT+5:30,26,Prefer not to say,Always,Often,Sometimes,Sometimes,Sometimes,Often,Sometimes,07-Aug,Often,Sometimes,Rarely,Avoiding problems,2
+2026/03/29 7:55:45 AM GMT+5:30,41,Male,Sometimes,Often,Sometimes,Sometimes,Sometimes,Sometimes,Sometimes,Less than 5,Sometimes,Yes,Daily,Music/Entertainment,3
+2026/03/29 7:55:45 AM GMT+5:30,27,Male,Always,Sometimes,Often,No,Sometimes,Always,Sometimes,Less than 5,Sometimes,Yes,Weekly,Avoiding problems,3
+2026/03/29 7:55:45 AM GMT+5:30,19,Male,Always,Never,Never,No,Sometimes,Sometimes,Yes,More than 8,Often,Sometimes,Weekly,Sleeping,3
+2026/03/29 7:55:45 AM GMT+5:30,24,Female,Often,Sometimes,Always,Yes,Sometimes,Sometimes,Sometimes,More than 8,Often,No,Rarely,Music/Entertainment,4
+2026/03/29 7:55:45 AM GMT+5:30,52,Male,Always,Sometimes,Sometimes,Yes,Sometimes,Often,No,07-Aug,Sometimes,Sometimes,Weekly,Other,3
+2026/03/29 7:55:45 AM GMT+5:30,50,Female,Sometimes,Often,Sometimes,No,Often,Rarely,Sometimes,Less than 5,Sometimes,Sometimes,Rarely,Sleeping,3
+2026/03/29 7:55:45 AM GMT+5:30,27,Male,Sometimes,Often,Sometimes,No,Sometimes,Always,Yes,05-Jun,Sometimes,Sometimes,Never,Talking to someone,4
+2026/03/29 7:55:45 AM GMT+5:30,53,Female,Always,Always,Always,Often,Often,Always,Often,Less than 5 hours,Always,No,Rarely,I don’t cope well,Very Poor
+2026/03/29 7:55:45 AM GMT+5:30,21,Prefer not to say,Always,Always,Always,Often,Often,Always,Often,Less than 5 hours,Always,No,Rarely,I don’t cope well,Very Poor
+2026/03/29 7:55:45 AM GMT+5:30,54,Female,Sometimes,Never,Sometimes,Sometimes,Never,Often,Yes,More than 8,Often,Yes,Weekly,Other,2
+2026/03/29 7:55:45 AM GMT+5:30,35,Male,Sometimes,Sometimes,Sometimes,Yes,Never,Often,Sometimes,More than 8,Always,No,Rarely,Exercise,3
+2026/03/29 7:55:45 AM GMT+5:30,26,Male,Always,Always,Always,Often,Often,Always,Often,Less than 5 hours,Always,No,Rarely,I don’t cope well,Very Poor
+2026/03/29 7:55:45 AM GMT+5:30,59,Prefer not to say,Sometimes,Never,Always,Sometimes,Often,Often,Sometimes,07-Aug,Never,No,Weekly,Talking to someone,4
+2026/03/29 7:55:45 AM GMT+5:30,27,Male,Often,Often,Often,Yes,Often,Often,Yes,07-Aug,Sometimes,Sometimes,Weekly,Exercise,3
+2026/03/29 7:55:46 AM GMT+5:30,35,Male,Sometimes,Sometimes,Often,No,Sometimes,Always,Sometimes,Less than 5,Often,No,Weekly,Talking to someone,4
+2026/03/29 7:55:46 AM GMT+5:30,35,Female,Always,Always,Always,Often,Often,Always,Often,Less than 5 hours,Always,No,Rarely,I don’t cope well,Very Poor
+2026/03/29 7:55:46 AM GMT+5:30,19,Female,Always,Always,Always,Often,Often,Always,Often,Less than 5 hours,Always,No,Rarely,I don’t cope well,Very Poor
+2026/03/29 7:55:46 AM GMT+5:30,40,Male,Sometimes,Sometimes,Sometimes,Yes,Always,Always,Yes,07-Aug,Always,Sometimes,Never,Other,3
+2026/03/29 7:55:46 AM GMT+5:30,39,Female,Often,Sometimes,Never,Sometimes,Often,Always,Yes,07-Aug,Never,Sometimes,Never,Exercise,2
+2026/03/29 7:55:46 AM GMT+5:30,37,Male,Always,Always,Always,Often,Often,Always,Often,Less than 5 hours,Always,No,Rarely,I don’t cope well,Very Poor
+2026/03/29 7:55:46 AM GMT+5:30,25,Female,Sometimes,Often,Always,No,Often,Often,No,07-Aug,Always,Yes,Rarely,Sleeping,5
+2026/03/29 7:55:46 AM GMT+5:30,22,Male,Sometimes,Sometimes,Often,Yes,Never,Sometimes,Sometimes,07-Aug,Often,Yes,Daily,Other,1
+2026/03/29 7:55:46 AM GMT+5:30,26,Prefer not to say,Sometimes,Never,Often,Sometimes,Always,Sometimes,Sometimes,07-Aug,Sometimes,Yes,Never,Exercise,3
+2026/03/29 7:55:46 AM GMT+5:30,35,Male,Sometimes,Sometimes,Always,Sometimes,Sometimes,Often,Sometimes,More than 8,Sometimes,No,Daily,Talking to someone,3
+2026/03/29 7:55:46 AM GMT+5:30,40,Female,Always,Sometimes,Never,No,Often,Sometimes,No,Less than 5,Often,No,Weekly,Talking to someone,5
+2026/03/29 7:55:46 AM GMT+5:30,27,Female,Often,Always,Sometimes,No,Always,Always,Sometimes,More than 8,Often,Sometimes,Never,Music/Entertainment,4
+2026/03/29 7:55:46 AM GMT+5:30,29,Female,Always,Always,Always,Often,Often,Always,Often,Less than 5 hours,Always,No,Rarely,I don’t cope well,Very Poor
+2026/03/29 7:55:46 AM GMT+5:30,35,Male,Always,Always,Always,Often,Often,Always,Often,Less than 5 hours,Always,No,Rarely,I don’t cope well,Very Poor
+2026/03/29 7:55:46 AM GMT+5:30,57,Prefer not to say,Sometimes,Often,Sometimes,Sometimes,Never,Always,Yes,05-Jun,Never,Yes,Daily,Avoiding problems,2
+2026/03/29 7:55:46 AM GMT+5:30,35,Female,Never,Sometimes,Sometimes,No,Sometimes,Often,Yes,07-Aug,Sometimes,Yes,Rarely,Sleeping,5
+2026/03/29 7:55:46 AM GMT+5:30,22,Male,Always,Often,Often,Sometimes,Sometimes,Sometimes,Sometimes,05-Jun,Sometimes,Yes,Weekly,Sleeping,5
+2026/03/29 7:55:46 AM GMT+5:30,51,Male,Sometimes,Often,Sometimes,Yes,Sometimes,Always,Sometimes,05-Jun,Always,Sometimes,Daily,Avoiding problems,2
+2026/03/29 7:55:46 AM GMT+5:30,27,Male,Often,Always,Always,No,Often,Often,Yes,05-Jun,Always,No,Weekly,Exercise,5
+2026/03/29 7:55:47 AM GMT+5:30,43,Prefer not to say,Often,Always,Always,Yes,Sometimes,Always,Sometimes,05-Jun,Often,Yes,Weekly,Talking to someone,3
+2026/03/29 7:55:47 AM GMT+5:30,18,Female,Sometimes,Often,Sometimes,No,Often,Sometimes,Yes,07-Aug,Sometimes,No,Weekly,Exercise,3
+2026/03/29 7:55:47 AM GMT+5:30,22,Prefer not to say,Sometimes,Often,Never,Sometimes,Sometimes,Sometimes,Yes,05-Jun,Often,No,Weekly,Exercise,4
+2026/03/29 7:55:47 AM GMT+5:30,29,Male,Often,Always,Never,No,Always,Sometimes,Yes,Less than 5,Always,No,Daily,Music/Entertainment,3
+2026/03/29 7:55:47 AM GMT+5:30,27,Prefer not to say,Sometimes,Sometimes,Sometimes,Yes,Always,Often,Sometimes,07-Aug,Often,Sometimes,Rarely,Avoiding problems,5
+2026/03/29 7:55:47 AM GMT+5:30,51,Male,Often,Sometimes,Never,Yes,Sometimes,Often,No,07-Aug,Often,Sometimes,Never,Sleeping,2
+2026/03/29 7:55:47 AM GMT+5:30,19,Non - binary,Often,Always,Always,No,Sometimes,Sometimes,Sometimes,07-Aug,Often,Sometimes,Weekly,Music/Entertainment,4
+2026/03/29 7:55:47 AM GMT+5:30,38,Male,Sometimes,Never,Sometimes,No,Sometimes,Often,Sometimes,07-Aug,Often,Sometimes,Daily,Talking to someone,4
+2026/03/29 7:55:47 AM GMT+5:30,30,Female,Sometimes,Often,Sometimes,No,Never,Always,Sometimes,05-Jun,Always,Sometimes,Weekly,Music/Entertainment,5
+2026/03/29 7:55:47 AM GMT+5:30,21,Non - binary,Sometimes,Often,Often,Sometimes,Always,Often,Sometimes,More than 8,Never,Sometimes,Rarely,Sleeping,5
+2026/03/29 7:55:47 AM GMT+5:30,60,Female,Often,Sometimes,Sometimes,Sometimes,Often,Often,No,05-Jun,Always,Sometimes,Rarely,Sleeping,2
+2026/03/29 7:55:47 AM GMT+5:30,20,Female,Always,Sometimes,Often,Sometimes,Often,Often,Sometimes,07-Aug,Often,Sometimes,Daily,Sleeping,4
+2026/03/29 7:55:47 AM GMT+5:30,36,Female,Always,Always,Sometimes,No,Always,Often,No,More than 8,Always,No,Daily,Talking to someone,4
+2026/03/29 7:55:47 AM GMT+5:30,22,Male,Often,Never,Sometimes,No,Always,Often,Sometimes,07-Aug,Sometimes,Sometimes,Never,Exercise,5
+2026/03/29 7:55:47 AM GMT+5:30,20,Prefer not to say,Always,Always,Always,Often,Often,Always,Often,Less than 5 hours,Always,No,Rarely,I don’t cope well,Very Poor
+2026/03/29 7:55:47 AM GMT+5:30,21,Female,Often,Often,Sometimes,No,Often,Often,No,More than 8,Sometimes,No,Weekly,Talking to someone,5
+2026/03/29 7:55:47 AM GMT+5:30,44,Male,Never,Sometimes,Sometimes,Yes,Sometimes,Rarely,Sometimes,Less than 5,Never,No,Rarely,Other,4
+2026/03/29 7:55:47 AM GMT+5:30,30,Male,Always,Always,Always,Often,Often,Always,Often,Less than 5 hours,Always,No,Rarely,I don’t cope well,Very Poor
+2026/03/29 7:55:47 AM GMT+5:30,36,Male,Always,Never,Often,Yes,Sometimes,Always,Sometimes,07-Aug,Often,Yes,Rarely,Music/Entertainment,4
+2026/03/29 7:55:48 AM GMT+5:30,27,Male,Sometimes,Often,Sometimes,Yes,Always,Often,Yes,07-Aug,Sometimes,Sometimes,Daily,Other,3
+2026/03/29 7:55:48 AM GMT+5:30,18,Prefer not to say,Sometimes,Never,Never,Yes,Often,Rarely,No,07-Aug,Often,No,Rarely,Other,4
+2026/03/29 7:55:48 AM GMT+5:30,25,Male,Never,Sometimes,Always,Yes,Sometimes,Rarely,Yes,07-Aug,Sometimes,No,Weekly,Avoiding problems,4
+2026/03/29 7:55:48 AM GMT+5:30,49,Male,Sometimes,Sometimes,Sometimes,Sometimes,Sometimes,Often,Yes,Less than 5,Often,Sometimes,Daily,Music/Entertainment,2
+2026/03/29 7:55:48 AM GMT+5:30,60,Female,Never,Sometimes,Sometimes,Sometimes,Often,Often,Yes,07-Aug,Often,Yes,Never,Music/Entertainment,4
+2026/03/29 7:55:48 AM GMT+5:30,52,Female,Sometimes,Sometimes,Sometimes,Yes,Sometimes,Sometimes,Yes,More than 8,Sometimes,Sometimes,Rarely,Other,5
+2026/03/29 7:55:48 AM GMT+5:30,42,Male,Sometimes,Sometimes,Never,Sometimes,Often,Sometimes,No,07-Aug,Often,Sometimes,Rarely,Talking to someone,3
+2026/03/29 7:55:48 AM GMT+5:30,23,Male,Sometimes,Often,Often,No,Often,Often,Yes,07-Aug,Always,No,Rarely,Talking to someone,4
+2026/03/29 7:55:48 AM GMT+5:30,30,Male,Never,Sometimes,Sometimes,Sometimes,Sometimes,Always,Sometimes,05-Jun,Often,No,Daily,Avoiding problems,3
+2026/03/29 7:55:48 AM GMT+5:30,25,Male,Sometimes,Sometimes,Sometimes,No,Often,Always,No,07-Aug,Often,No,Daily,Sleeping,4
+2026/03/29 7:55:48 AM GMT+5:30,41,Male,Always,Sometimes,Never,Yes,Sometimes,Always,Yes,05-Jun,Often,Yes,Never,Music/Entertainment,2
+2026/03/29 7:55:48 AM GMT+5:30,18,Female,Sometimes,Sometimes,Sometimes,Sometimes,Sometimes,Rarely,Yes,07-Aug,Never,Yes,Weekly,Talking to someone,4
+2026/03/29 7:55:48 AM GMT+5:30,21,Female,Never,Sometimes,Often,Sometimes,Sometimes,Sometimes,Sometimes,Less than 5,Never,Sometimes,Never,Sleeping,1
+2026/03/29 7:55:48 AM GMT+5:30,27,Male,Sometimes,Sometimes,Always,Sometimes,Always,Sometimes,Yes,07-Aug,Sometimes,Sometimes,Rarely,Music/Entertainment,3
+2026/03/29 7:55:48 AM GMT+5:30,57,Female,Always,Sometimes,Often,No,Always,Often,Sometimes,More than 8,Sometimes,Sometimes,Weekly,Talking to someone,3
+2026/03/29 7:55:48 AM GMT+5:30,56,Male,Sometimes,Sometimes,Never,Sometimes,Sometimes,Always,No,07-Aug,Always,Yes,Daily,Sleeping,4
+2026/03/29 7:55:48 AM GMT+5:30,21,Female,Always,Always,Always,Often,Often,Always,Often,Less than 5 hours,Always,No,Rarely,I don’t cope well,Very Poor
+2026/03/29 7:55:48 AM GMT+5:30,18,Male,Sometimes,Often,Often,Sometimes,Often,Rarely,Sometimes,07-Aug,Sometimes,No,Never,Other,4
+2026/03/29 7:55:48 AM GMT+5:30,31,Female,Never,Often,Often,No,Never,Often,Sometimes,Less than 5,Sometimes,Yes,Never,Other,4
+2026/03/29 7:55:48 AM GMT+5:30,22,Male,Always,Always,Always,Often,Often,Always,Often,Less than 5 hours,Always,No,Rarely,I don’t cope well,Very Poor
+2026/03/29 7:55:49 AM GMT+5:30,51,Female,Sometimes,Often,Always,No,Sometimes,Often,No,07-Aug,Often,No,Never,Other,3
+2026/03/29 7:55:49 AM GMT+5:30,49,Male,Sometimes,Sometimes,Often,Sometimes,Sometimes,Sometimes,Yes,05-Jun,Always,Yes,Weekly,Music/Entertainment,3
+2026/03/29 7:55:49 AM GMT+5:30,18,Male,Often,Often,Often,No,Always,Always,No,07-Aug,Sometimes,No,Rarely,Avoiding problems,2
+2026/03/29 7:55:49 AM GMT+5:30,60,Prefer not to say,Always,Always,Always,Often,Often,Always,Often,Less than 5 hours,Always,No,Rarely,I don’t cope well,Very Poor
+2026/03/29 7:55:49 AM GMT+5:30,27,Male,Always,Always,Always,Often,Often,Always,Often,Less than 5 hours,Always,No,Rarely,I don’t cope well,Very Poor
+2026/03/29 7:55:49 AM GMT+5:30,52,Male,Always,Always,Always,Often,Often,Always,Often,Less than 5 hours,Always,No,Rarely,I don’t cope well,Very Poor
+2026/03/29 7:55:49 AM GMT+5:30,29,Female,Sometimes,Sometimes,Sometimes,Sometimes,Sometimes,Sometimes,Yes,05-Jun,Often,Sometimes,Rarely,Avoiding problems,5
+2026/03/29 7:55:49 AM GMT+5:30,18,Prefer not to say,Never,Often,Sometimes,No,Sometimes,Sometimes,Sometimes,More than 8,Always,Yes,Rarely,Avoiding problems,5
+2026/03/29 7:55:49 AM GMT+5:30,24,Female,Sometimes,Never,Never,Yes,Sometimes,Always,Yes,07-Aug,Always,Yes,Daily,Music/Entertainment,3
+2026/03/29 7:55:49 AM GMT+5:30,24,Non - binary,Sometimes,Often,Sometimes,No,Never,Always,No,07-Aug,Always,Yes,Weekly,Other,4
+2026/03/29 7:55:49 AM GMT+5:30,23,Male,Always,Always,Always,Often,Often,Always,Often,Less than 5 hours,Always,No,Rarely,I don’t cope well,Very Poor
+2026/03/29 7:55:49 AM GMT+5:30,46,Female,Always,Always,Never,Yes,Never,Always,Yes,07-Aug,Never,Sometimes,Never,Sleeping,3
+2026/03/29 7:55:49 AM GMT+5:30,18,Non - binary,Always,Sometimes,Often,Sometimes,Often,Sometimes,Yes,05-Jun,Sometimes,Sometimes,Daily,Exercise,3
+2026/03/29 7:55:49 AM GMT+5:30,39,Prefer not to say,Often,Often,Sometimes,Sometimes,Always,Often,No,05-Jun,Often,No,Rarely,Music/Entertainment,3
+2026/03/29 7:55:49 AM GMT+5:30,47,Male,Sometimes,Sometimes,Often,Yes,Sometimes,Always,No,05-Jun,Often,Sometimes,Never,Music/Entertainment,5
+2026/03/29 7:55:49 AM GMT+5:30,25,Male,Often,Never,Sometimes,Yes,Sometimes,Often,Yes,05-Jun,Often,Sometimes,Rarely,Avoiding problems,5
+2026/03/29 7:55:49 AM GMT+5:30,27,Male,Often,Sometimes,Sometimes,Sometimes,Often,Often,Sometimes,Less than 5,Often,Yes,Weekly,Sleeping,4
+2026/03/29 7:55:49 AM GMT+5:30,41,Male,Sometimes,Sometimes,Sometimes,Sometimes,Sometimes,Sometimes,Yes,More than 8,Always,Sometimes,Never,Talking to someone,4
+2026/03/29 7:55:49 AM GMT+5:30,20,Female,Often,Always,Sometimes,No,Always,Often,Sometimes,05-Jun,Always,Yes,Weekly,Exercise,4
+2026/03/29 7:55:49 AM GMT+5:30,23,Prefer not to say,Always,Always,Always,Often,Often,Always,Often,Less than 5 hours,Always,No,Rarely,I don’t cope well,Very Poor
+2026/03/29 7:55:50 AM GMT+5:30,60,Male,Often,Always,Often,No,Often,Often,Sometimes,05-Jun,Often,No,Rarely,Talking to someone,4
+2026/03/29 7:55:50 AM GMT+5:30,27,Male,Sometimes,Often,Never,Sometimes,Sometimes,Often,No,Less than 5,Sometimes,Yes,Daily,Music/Entertainment,3
+2026/03/29 7:55:50 AM GMT+5:30,46,Female,Sometimes,Often,Often,No,Often,Often,Yes,More than 8,Sometimes,Yes,Weekly,Music/Entertainment,4
+2026/03/29 7:55:50 AM GMT+5:30,23,Male,Sometimes,Sometimes,Never,Yes,Never,Often,Sometimes,Less than 5,Often,Sometimes,Rarely,Sleeping,4
+2026/03/29 7:55:50 AM GMT+5:30,21,Female,Sometimes,Often,Often,No,Never,Often,Sometimes,More than 8,Sometimes,Sometimes,Weekly,Sleeping,5
+2026/03/29 7:55:50 AM GMT+5:30,31,Prefer not to say,Always,Never,Often,Yes,Sometimes,Often,Yes,05-Jun,Sometimes,Sometimes,Weekly,Exercise,3
+2026/03/29 7:55:50 AM GMT+5:30,26,Prefer not to say,Sometimes,Always,Sometimes,Sometimes,Sometimes,Often,Sometimes,More than 8,Often,Sometimes,Weekly,Sleeping,4
+2026/03/29 7:55:50 AM GMT+5:30,18,Male,Sometimes,Sometimes,Always,Sometimes,Never,Always,No,More than 8,Sometimes,Yes,Never,Music/Entertainment,3
+2026/03/29 7:55:50 AM GMT+5:30,30,Male,Always,Often,Sometimes,Yes,Often,Often,Sometimes,05-Jun,Often,Sometimes,Weekly,Talking to someone,4
+2026/03/29 7:55:50 AM GMT+5:30,24,Male,Sometimes,Sometimes,Sometimes,Sometimes,Sometimes,Rarely,Yes,05-Jun,Never,Yes,Rarely,Music/Entertainment,3
+2026/03/29 7:55:50 AM GMT+5:30,43,Prefer not to say,Sometimes,Never,Often,No,Sometimes,Often,Sometimes,More than 8,Sometimes,Yes,Weekly,Music/Entertainment,3
+2026/03/29 7:55:50 AM GMT+5:30,25,Prefer not to say,Always,Always,Always,Often,Often,Always,Often,Less than 5 hours,Always,No,Rarely,I don’t cope well,Very Poor
+2026/03/29 7:55:50 AM GMT+5:30,21,Male,Never,Always,Sometimes,Sometimes,Sometimes,Often,Yes,07-Aug,Always,Yes,Weekly,Avoiding problems,3
+2026/03/29 7:55:50 AM GMT+5:30,29,Female,Often,Never,Sometimes,Yes,Often,Often,Yes,More than 8,Sometimes,Yes,Rarely,Music/Entertainment,2
+2026/03/29 7:55:50 AM GMT+5:30,24,Male,Sometimes,Always,Never,Yes,Never,Sometimes,Sometimes,07-Aug,Always,Yes,Rarely,Music/Entertainment,4
+2026/03/29 7:55:50 AM GMT+5:30,38,Male,Often,Often,Sometimes,No,Never,Always,Yes,07-Aug,Always,Sometimes,Weekly,Talking to someone,5
+2026/03/29 7:55:50 AM GMT+5:30,26,Male,Often,Sometimes,Always,No,Often,Often,Sometimes,07-Aug,Often,Yes,Rarely,Other,5
+2026/03/29 7:55:50 AM GMT+5:30,29,Female,Always,Always,Always,Often,Often,Always,Often,Less than 5 hours,Always,No,Rarely,I don’t cope well,Very Poor
+2026/03/29 7:55:50 AM GMT+5:30,24,Male,Often,Sometimes,Often,No,Sometimes,Often,No,07-Aug,Often,Sometimes,Weekly,Music/Entertainment,4
+2026/03/29 7:55:51 AM GMT+5:30,24,Prefer not to say,Always,Always,Always,Often,Often,Always,Often,Less than 5 hours,Always,No,Rarely,I don’t cope well,Very Poor
+2026/03/29 7:55:51 AM GMT+5:30,59,Non - binary,Often,Sometimes,Always,Yes,Sometimes,Sometimes,Yes,05-Jun,Often,Sometimes,Never,Music/Entertainment,3
+2026/03/29 7:55:51 AM GMT+5:30,46,Male,Often,Never,Never,Sometimes,Often,Always,No,07-Aug,Often,No,Weekly,Exercise,3
+2026/03/29 7:55:51 AM GMT+5:30,20,Female,Sometimes,Always,Always,Yes,Often,Often,No,05-Jun,Often,Yes,Never,Other,4
+2026/03/29 7:55:51 AM GMT+5:30,45,Female,Sometimes,Often,Often,No,Never,Sometimes,Sometimes,07-Aug,Sometimes,Sometimes,Rarely,Sleeping,3
+2026/03/29 7:55:51 AM GMT+5:30,19,Female,Often,Never,Often,No,Often,Rarely,Sometimes,05-Jun,Sometimes,No,Daily,Avoiding problems,3
+2026/03/29 7:55:51 AM GMT+5:30,20,Female,Often,Often,Never,Sometimes,Often,Often,Yes,07-Aug,Sometimes,Sometimes,Weekly,Other,4
+2026/03/29 7:55:51 AM GMT+5:30,26,Prefer not to say,Sometimes,Sometimes,Never,Yes,Often,Often,Sometimes,More than 8,Sometimes,Sometimes,Rarely,Music/Entertainment,2
+2026/03/29 7:55:51 AM GMT+5:30,20,Male,Always,Always,Always,Often,Often,Always,Often,Less than 5 hours,Always,No,Rarely,I don’t cope well,Very Poor
+2026/03/29 7:55:51 AM GMT+5:30,25,Female,Often,Sometimes,Often,No,Always,Rarely,Sometimes,Less than 5,Sometimes,Yes,Rarely,Talking to someone,5
+2026/03/29 7:55:51 AM GMT+5:30,46,Male,Often,Sometimes,Sometimes,No,Sometimes,Always,Sometimes,07-Aug,Never,Sometimes,Rarely,Talking to someone,3
+2026/03/29 7:55:51 AM GMT+5:30,45,Female,Sometimes,Often,Never,No,Never,Sometimes,No,More than 8,Sometimes,No,Weekly,Talking to someone,4
+2026/03/29 7:55:51 AM GMT+5:30,24,Prefer not to say,Often,Sometimes,Sometimes,Sometimes,Sometimes,Sometimes,No,Less than 5,Never,Sometimes,Daily,Talking to someone,2
+2026/03/29 7:55:51 AM GMT+5:30,29,Male,Often,Sometimes,Sometimes,Yes,Sometimes,Often,Yes,05-Jun,Always,Yes,Weekly,Talking to someone,4
+2026/03/29 7:55:51 AM GMT+5:30,19,Male,Sometimes,Sometimes,Often,Yes,Often,Always,No,More than 8,Often,No,Daily,Avoiding problems,4
+2026/03/29 7:55:51 AM GMT+5:30,59,Prefer not to say,Always,Often,Sometimes,No,Always,Rarely,Yes,07-Aug,Often,Sometimes,Daily,Talking to someone,3
+2026/03/29 7:55:51 AM GMT+5:30,22,Male,Never,Sometimes,Never,Sometimes,Sometimes,Often,No,Less than 5,Always,Sometimes,Weekly,Music/Entertainment,5
+2026/03/29 7:55:51 AM GMT+5:30,59,Female,Always,Always,Always,Often,Often,Always,Often,Less than 5 hours,Always,No,Rarely,I don’t cope well,Very Poor
+2026/03/29 7:55:51 AM GMT+5:30,21,Male,Never,Sometimes,Sometimes,No,Always,Often,No,05-Jun,Always,Yes,Weekly,Music/Entertainment,4
+2026/03/29 7:55:52 AM GMT+5:30,55,Male,Often,Often,Often,No,Always,Rarely,Sometimes,07-Aug,Often,Yes,Rarely,Music/Entertainment,2
+2026/03/29 7:55:52 AM GMT+5:30,21,Prefer not to say,Never,Never,Sometimes,No,Often,Always,No,07-Aug,Sometimes,Sometimes,Daily,Talking to someone,1
+2026/03/29 7:55:52 AM GMT+5:30,29,Prefer not to say,Sometimes,Often,Often,Sometimes,Always,Sometimes,Sometimes,05-Jun,Often,Yes,Weekly,Music/Entertainment,4
+2026/03/29 7:55:52 AM GMT+5:30,23,Female,Sometimes,Never,Always,Sometimes,Sometimes,Often,Sometimes,More than 8,Always,Yes,Daily,Talking to someone,4
+2026/03/29 7:55:52 AM GMT+5:30,52,Male,Always,Always,Always,Often,Often,Always,Often,Less than 5 hours,Always,No,Rarely,I don’t cope well,Very Poor
+2026/03/29 7:55:52 AM GMT+5:30,51,Prefer not to say,Sometimes,Always,Often,No,Never,Often,Sometimes,07-Aug,Always,Yes,Weekly,Talking to someone,3
+2026/03/29 7:55:52 AM GMT+5:30,59,Male,Often,Never,Always,Yes,Always,Often,Sometimes,Less than 5,Often,Sometimes,Rarely,Exercise,2
+2026/03/29 7:55:52 AM GMT+5:30,27,Male,Always,Sometimes,Always,No,Sometimes,Often,Yes,More than 8,Always,Sometimes,Rarely,Avoiding problems,2
+2026/03/29 7:55:52 AM GMT+5:30,20,Prefer not to say,Never,Often,Often,No,Sometimes,Always,No,05-Jun,Sometimes,Yes,Weekly,Sleeping,4
+2026/03/29 7:55:52 AM GMT+5:30,38,Male,Sometimes,Never,Always,Yes,Often,Often,Sometimes,07-Aug,Sometimes,Yes,Weekly,Sleeping,4
+2026/03/29 7:55:52 AM GMT+5:30,18,Female,Often,Never,Sometimes,Yes,Always,Sometimes,Yes,Less than 5,Sometimes,Sometimes,Daily,Avoiding problems,4
+2026/03/29 7:55:52 AM GMT+5:30,21,Male,Often,Often,Never,Sometimes,Often,Sometimes,No,More than 8,Sometimes,Sometimes,Rarely,Sleeping,3
+2026/03/29 7:55:52 AM GMT+5:30,34,Male,Always,Always,Always,Often,Often,Always,Often,Less than 5 hours,Always,No,Rarely,I don’t cope well,Very Poor
+2026/03/29 7:55:52 AM GMT+5:30,30,Male,Always,Always,Always,Often,Often,Always,Often,Less than 5 hours,Always,No,Rarely,I don’t cope well,Very Poor
+2026/03/29 7:55:52 AM GMT+5:30,28,Male,Sometimes,Never,Sometimes,Sometimes,Often,Sometimes,No,07-Aug,Often,Yes,Weekly,Avoiding problems,4
+2026/03/29 7:55:52 AM GMT+5:30,55,Male,Sometimes,Sometimes,Always,Sometimes,Often,Always,No,07-Aug,Never,Sometimes,Daily,Music/Entertainment,4
+2026/03/29 7:55:52 AM GMT+5:30,56,Male,Never,Sometimes,Always,Sometimes,Often,Sometimes,No,07-Aug,Sometimes,No,Rarely,Talking to someone,2
+2026/03/29 7:55:52 AM GMT+5:30,26,Prefer not to say,Always,Often,Often,No,Often,Sometimes,Sometimes,05-Jun,Sometimes,Yes,Weekly,Talking to someone,4
+2026/03/29 7:55:52 AM GMT+5:30,18,Male,Sometimes,Often,Sometimes,Sometimes,Never,Often,No,05-Jun,Sometimes,Yes,Daily,Avoiding problems,4
+2026/03/29 7:55:53 AM GMT+5:30,26,Male,Sometimes,Often,Sometimes,Sometimes,Often,Sometimes,Sometimes,07-Aug,Always,No,Rarely,Sleeping,3
+2026/03/29 7:55:53 AM GMT+5:30,25,Female,Always,Always,Always,Often,Often,Always,Often,Less than 5 hours,Always,No,Rarely,I don’t cope well,Very Poor
+2026/03/29 7:55:53 AM GMT+5:30,43,Female,Often,Never,Sometimes,No,Always,Often,Yes,07-Aug,Sometimes,Yes,Daily,Exercise,4
+2026/03/29 7:55:53 AM GMT+5:30,45,Male,Never,Sometimes,Sometimes,No,Never,Sometimes,Yes,05-Jun,Often,Yes,Rarely,Talking to someone,4
+2026/03/29 7:55:53 AM GMT+5:30,30,Prefer not to say,Never,Often,Always,No,Often,Sometimes,Sometimes,07-Aug,Always,Sometimes,Weekly,Music/Entertainment,3
+2026/03/29 7:55:53 AM GMT+5:30,18,Male,Sometimes,Never,Often,Sometimes,Often,Often,Sometimes,Less than 5,Often,No,Weekly,Talking to someone,1
+2026/03/29 7:55:53 AM GMT+5:30,24,Male,Always,Always,Never,Yes,Never,Sometimes,Yes,05-Jun,Never,Yes,Weekly,Music/Entertainment,4
+2026/03/29 7:55:53 AM GMT+5:30,38,Male,Sometimes,Sometimes,Often,Sometimes,Often,Often,Sometimes,07-Aug,Often,Yes,Weekly,Avoiding problems,3
+2026/03/29 7:55:53 AM GMT+5:30,25,Female,Sometimes,Always,Often,Yes,Often,Often,Yes,05-Jun,Always,Sometimes,Weekly,Music/Entertainment,4
+2026/03/29 7:55:53 AM GMT+5:30,33,Prefer not to say,Sometimes,Often,Often,Sometimes,Never,Often,Sometimes,05-Jun,Sometimes,Sometimes,Weekly,Exercise,5
+2026/03/29 7:55:53 AM GMT+5:30,42,Non - binary,Always,Sometimes,Sometimes,Yes,Often,Often,Yes,05-Jun,Often,Yes,Never,Talking to someone,4
+2026/03/29 7:55:53 AM GMT+5:30,25,Male,Often,Sometimes,Often,Yes,Never,Always,No,07-Aug,Sometimes,Sometimes,Never,Exercise,5
+2026/03/29 7:55:53 AM GMT+5:30,28,Female,Sometimes,Often,Often,No,Sometimes,Often,Yes,More than 8,Often,Yes,Rarely,Talking to someone,3
+2026/03/29 7:55:53 AM GMT+5:30,51,Male,Often,Always,Sometimes,Sometimes,Sometimes,Often,Yes,Less than 5,Always,Sometimes,Daily,Music/Entertainment,4
+2026/03/29 7:55:53 AM GMT+5:30,20,Female,Often,Sometimes,Sometimes,No,Always,Often,Yes,Less than 5,Sometimes,Yes,Weekly,Avoiding problems,5
+2026/03/29 7:55:53 AM GMT+5:30,22,Male,Sometimes,Often,Always,Yes,Always,Often,Sometimes,More than 8,Never,Sometimes,Weekly,Talking to someone,4
+2026/03/29 7:55:53 AM GMT+5:30,43,Male,Never,Sometimes,Sometimes,Sometimes,Always,Often,Yes,07-Aug,Sometimes,No,Rarely,Music/Entertainment,5
+2026/03/29 7:55:53 AM GMT+5:30,19,Female,Sometimes,Sometimes,Always,Sometimes,Sometimes,Sometimes,Sometimes,07-Aug,Sometimes,No,Weekly,Music/Entertainment,4
+2026/03/29 7:55:53 AM GMT+5:30,21,Female,Always,Sometimes,Often,Yes,Always,Rarely,Sometimes,05-Jun,Sometimes,Sometimes,Weekly,Avoiding problems,3
+2026/03/29 7:55:53 AM GMT+5:30,49,Female,Never,Often,Sometimes,No,Sometimes,Sometimes,No,07-Aug,Often,No,Daily,Other,4
+2026/03/29 7:55:54 AM GMT+5:30,42,Prefer not to say,Never,Never,Often,No,Sometimes,Always,Yes,Less than 5,Sometimes,No,Weekly,Sleeping,4
+2026/03/29 7:55:54 AM GMT+5:30,19,Prefer not to say,Sometimes,Always,Always,Yes,Often,Often,Sometimes,07-Aug,Always,Yes,Daily,Music/Entertainment,2
+2026/03/29 7:55:54 AM GMT+5:30,26,Female,Always,Always,Always,Often,Often,Always,Often,Less than 5 hours,Always,No,Rarely,I don’t cope well,Very Poor
+2026/03/29 7:55:54 AM GMT+5:30,47,Female,Often,Often,Sometimes,Sometimes,Often,Often,No,07-Aug,Sometimes,Sometimes,Never,Talking to someone,3
+2026/03/29 7:55:54 AM GMT+5:30,37,Prefer not to say,Never,Often,Always,Yes,Sometimes,Often,Sometimes,07-Aug,Often,Sometimes,Never,Avoiding problems,4
+2026/03/29 7:55:54 AM GMT+5:30,28,Male,Sometimes,Often,Sometimes,No,Often,Rarely,Yes,More than 8,Often,Yes,Daily,Talking to someone,4
+2026/03/29 7:55:54 AM GMT+5:30,29,Female,Often,Sometimes,Never,Sometimes,Sometimes,Always,No,07-Aug,Sometimes,Sometimes,Weekly,Sleeping,4
+2026/03/29 7:55:54 AM GMT+5:30,29,Male,Always,Always,Always,Often,Often,Always,Often,Less than 5 hours,Always,No,Rarely,I don’t cope well,Very Poor
+2026/03/29 7:55:54 AM GMT+5:30,22,Female,Often,Never,Never,Sometimes,Sometimes,Often,Yes,Less than 5,Sometimes,Yes,Daily,Talking to someone,3
+2026/03/29 7:55:54 AM GMT+5:30,29,Prefer not to say,Always,Always,Sometimes,No,Sometimes,Sometimes,Yes,07-Aug,Sometimes,Sometimes,Rarely,Music/Entertainment,4
+2026/03/29 7:55:54 AM GMT+5:30,55,Female,Sometimes,Always,Sometimes,No,Sometimes,Often,No,07-Aug,Sometimes,Yes,Never,Sleeping,3
+2026/03/29 7:55:54 AM GMT+5:30,39,Female,Never,Always,Always,Sometimes,Never,Sometimes,No,Less than 5,Never,Sometimes,Never,Music/Entertainment,5
+2026/03/29 7:55:54 AM GMT+5:30,22,Non - binary,Always,Always,Always,Often,Often,Always,Often,Less than 5 hours,Always,No,Rarely,I don’t cope well,Very Poor
+2026/03/29 7:55:54 AM GMT+5:30,21,Female,Often,Never,Often,Sometimes,Always,Rarely,No,07-Aug,Often,Sometimes,Rarely,Music/Entertainment,4
+2026/03/29 7:55:54 AM GMT+5:30,56,Non - binary,Often,Sometimes,Sometimes,Sometimes,Sometimes,Sometimes,No,07-Aug,Sometimes,Yes,Rarely,Talking to someone,4
+2026/03/29 7:55:54 AM GMT+5:30,24,Non - binary,Sometimes,Often,Never,Sometimes,Always,Sometimes,Sometimes,07-Aug,Sometimes,No,Daily,Other,5
+2026/03/29 7:55:54 AM GMT+5:30,24,Female,Never,Often,Sometimes,Sometimes,Often,Often,Sometimes,07-Aug,Sometimes,Yes,Rarely,Other,2
+2026/03/29 7:55:54 AM GMT+5:30,22,Female,Always,Always,Always,Often,Often,Always,Often,Less than 5 hours,Always,No,Rarely,I don’t cope well,Very Poor
+2026/03/29 7:55:54 AM GMT+5:30,49,Male,Often,Never,Often,Yes,Never,Always,No,More than 8,Sometimes,Yes,Never,Talking to someone,4
+2026/03/29 7:55:54 AM GMT+5:30,28,Male,Sometimes,Often,Often,Yes,Sometimes,Often,Sometimes,Less than 5,Often,Sometimes,Weekly,Other,3
+2026/03/29 7:55:55 AM GMT+5:30,19,Male,Always,Often,Sometimes,No,Sometimes,Often,Sometimes,05-Jun,Often,Yes,Weekly,Music/Entertainment,5
+2026/03/29 7:55:55 AM GMT+5:30,24,Female,Always,Always,Always,Often,Often,Always,Often,Less than 5 hours,Always,No,Rarely,I don’t cope well,Very Poor
+2026/03/29 7:55:55 AM GMT+5:30,23,Female,Often,Sometimes,Often,No,Often,Sometimes,Sometimes,More than 8,Sometimes,No,Rarely,Other,4
+2026/03/29 7:55:55 AM GMT+5:30,30,Female,Always,Always,Always,Often,Often,Always,Often,Less than 5 hours,Always,No,Rarely,I don’t cope well,Very Poor
+2026/03/29 7:55:55 AM GMT+5:30,32,Male,Sometimes,Never,Sometimes,Sometimes,Never,Rarely,Sometimes,Less than 5,Sometimes,Yes,Weekly,Music/Entertainment,4
+2026/03/29 7:55:55 AM GMT+5:30,60,Male,Sometimes,Never,Sometimes,Sometimes,Always,Sometimes,Yes,07-Aug,Often,Yes,Rarely,Avoiding problems,4
+2026/03/29 7:55:55 AM GMT+5:30,24,Female,Always,Often,Sometimes,Sometimes,Sometimes,Sometimes,No,Less than 5,Sometimes,No,Rarely,Other,4
+2026/03/29 7:55:55 AM GMT+5:30,44,Prefer not to say,Sometimes,Never,Sometimes,Sometimes,Sometimes,Sometimes,Yes,05-Jun,Sometimes,No,Never,Other,4
+2026/03/29 7:55:55 AM GMT+5:30,43,Non - binary,Sometimes,Sometimes,Sometimes,No,Often,Sometimes,No,More than 8,Sometimes,Sometimes,Rarely,Avoiding problems,3
+2026/03/29 7:55:55 AM GMT+5:30,23,Female,Sometimes,Often,Always,Yes,Never,Sometimes,Yes,05-Jun,Often,Yes,Weekly,Sleeping,1
+2026/03/29 7:55:55 AM GMT+5:30,36,Prefer not to say,Sometimes,Sometimes,Sometimes,Sometimes,Often,Always,Yes,07-Aug,Often,Sometimes,Weekly,Sleeping,4
+2026/03/29 7:55:55 AM GMT+5:30,20,Female,Sometimes,Sometimes,Often,Yes,Often,Often,Yes,07-Aug,Often,Yes,Rarely,Sleeping,4
+2026/03/29 7:55:55 AM GMT+5:30,28,Male,Always,Always,Always,Often,Often,Always,Often,Less than 5 hours,Always,No,Rarely,I don’t cope well,Very Poor
+2026/03/29 7:55:55 AM GMT+5:30,27,Prefer not to say,Sometimes,Never,Often,Yes,Never,Always,Sometimes,05-Jun,Sometimes,Yes,Never,Music/Entertainment,4
+2026/03/29 7:55:55 AM GMT+5:30,55,Male,Often,Always,Often,Sometimes,Sometimes,Often,Yes,07-Aug,Sometimes,No,Daily,Talking to someone,2
+2026/03/29 7:55:55 AM GMT+5:30,21,Male,Often,Sometimes,Often,Sometimes,Often,Often,Yes,05-Jun,Always,Sometimes,Weekly,Sleeping,4
+2026/03/29 7:55:55 AM GMT+5:30,19,Prefer not to say,Always,Always,Always,Often,Often,Always,Often,Less than 5 hours,Always,No,Rarely,I don’t cope well,Very Poor
+2026/03/29 7:55:55 AM GMT+5:30,58,Male,Always,Sometimes,Always,Sometimes,Sometimes,Sometimes,Sometimes,05-Jun,Often,Yes,Weekly,Avoiding problems,3
+2026/03/29 7:55:56 AM GMT+5:30,50,Female,Often,Sometimes,Sometimes,Yes,Often,Always,Sometimes,More than 8,Sometimes,Sometimes,Weekly,Music/Entertainment,5
+2026/03/29 7:55:56 AM GMT+5:30,25,Male,Sometimes,Always,Sometimes,Sometimes,Often,Sometimes,Yes,07-Aug,Always,Sometimes,Rarely,Music/Entertainment,3
+2026/03/29 7:55:56 AM GMT+5:30,54,Female,Always,Always,Always,Often,Often,Always,Often,Less than 5 hours,Always,No,Rarely,I don’t cope well,Very Poor
+2026/03/29 7:55:56 AM GMT+5:30,55,Male,Sometimes,Sometimes,Always,Sometimes,Sometimes,Sometimes,No,Less than 5,Often,Sometimes,Never,Avoiding problems,3
+2026/03/29 7:55:56 AM GMT+5:30,20,Prefer not to say,Often,Always,Sometimes,No,Never,Often,Yes,More than 8,Always,No,Rarely,Music/Entertainment,1
+2026/03/29 7:55:56 AM GMT+5:30,30,Female,Sometimes,Often,Never,Yes,Always,Always,Yes,05-Jun,Never,Yes,Weekly,Talking to someone,2
+2026/03/29 7:55:56 AM GMT+5:30,48,Female,Always,Often,Often,No,Always,Rarely,No,05-Jun,Often,Sometimes,Weekly,Sleeping,5
+2026/03/29 7:55:56 AM GMT+5:30,37,Prefer not to say,Often,Sometimes,Never,No,Sometimes,Rarely,Yes,Less than 5,Often,Yes,Never,Other,2
+2026/03/29 7:55:56 AM GMT+5:30,28,Prefer not to say,Always,Always,Always,Often,Often,Always,Often,Less than 5 hours,Always,No,Rarely,I don’t cope well,Very Poor
+2026/03/29 7:55:56 AM GMT+5:30,28,Female,Always,Often,Sometimes,Sometimes,Often,Often,Sometimes,07-Aug,Often,Yes,Weekly,Music/Entertainment,4
+2026/03/29 7:55:56 AM GMT+5:30,60,Female,Often,Sometimes,Often,Sometimes,Often,Often,Yes,07-Aug,Sometimes,No,Rarely,Music/Entertainment,5
+2026/03/29 7:55:56 AM GMT+5:30,40,Non - binary,Always,Always,Always,Yes,Never,Often,Yes,05-Jun,Always,Yes,Rarely,Exercise,4
+2026/03/29 7:55:56 AM GMT+5:30,24,Female,Sometimes,Sometimes,Always,Yes,Always,Often,No,More than 8,Often,Yes,Rarely,Music/Entertainment,3
+2026/03/29 7:55:56 AM GMT+5:30,22,Prefer not to say,Often,Never,Never,No,Never,Often,Sometimes,05-Jun,Sometimes,Yes,Weekly,Sleeping,5
+2026/03/29 7:55:56 AM GMT+5:30,20,Female,Often,Sometimes,Always,Sometimes,Often,Often,Sometimes,07-Aug,Often,No,Never,Talking to someone,3
+2026/03/29 7:55:56 AM GMT+5:30,18,Male,Often,Always,Sometimes,Yes,Never,Always,Sometimes,05-Jun,Often,Yes,Weekly,Avoiding problems,3
+2026/03/29 7:55:56 AM GMT+5:30,35,Female,Always,Always,Never,Yes,Often,Often,No,07-Aug,Always,Sometimes,Weekly,Exercise,4
+2026/03/29 7:55:56 AM GMT+5:30,47,Female,Sometimes,Sometimes,Never,Sometimes,Sometimes,Sometimes,Sometimes,05-Jun,Always,Sometimes,Daily,Music/Entertainment,4
+2026/03/29 7:55:56 AM GMT+5:30,20,Male,Always,Sometimes,Sometimes,Sometimes,Always,Always,No,More than 8,Sometimes,Sometimes,Rarely,Exercise,4
+2026/03/29 7:55:56 AM GMT+5:30,30,Male,Sometimes,Sometimes,Sometimes,Yes,Always,Always,Yes,07-Aug,Sometimes,No,Rarely,Sleeping,3
+2026/03/29 7:55:57 AM GMT+5:30,48,Non - binary,Often,Sometimes,Often,No,Never,Often,Sometimes,More than 8,Sometimes,No,Rarely,Music/Entertainment,3
+2026/03/29 7:55:57 AM GMT+5:30,53,Prefer not to say,Often,Sometimes,Sometimes,Yes,Often,Sometimes,No,07-Aug,Sometimes,Sometimes,Rarely,Talking to someone,5
+2026/03/29 7:55:57 AM GMT+5:30,54,Female,Sometimes,Sometimes,Often,No,Never,Often,No,Less than 5,Often,No,Weekly,Talking to someone,3
+2026/03/29 7:55:57 AM GMT+5:30,26,Male,Sometimes,Sometimes,Often,Sometimes,Always,Often,No,More than 8,Always,Sometimes,Rarely,Avoiding problems,2
+2026/03/29 7:55:57 AM GMT+5:30,33,Female,Sometimes,Sometimes,Sometimes,Yes,Never,Rarely,Sometimes,07-Aug,Often,Yes,Weekly,Sleeping,2
+2026/03/29 7:55:57 AM GMT+5:30,25,Male,Never,Sometimes,Often,Yes,Always,Often,Sometimes,More than 8,Often,No,Rarely,Other,2
+2026/03/29 7:55:57 AM GMT+5:30,22,Male,Sometimes,Never,Often,Sometimes,Sometimes,Often,Sometimes,07-Aug,Often,No,Never,Talking to someone,4
+2026/03/29 7:55:57 AM GMT+5:30,28,Male,Sometimes,Sometimes,Sometimes,No,Often,Sometimes,No,07-Aug,Always,Sometimes,Never,Talking to someone,4
+2026/03/29 7:55:57 AM GMT+5:30,39,Female,Always,Always,Always,Often,Often,Always,Often,Less than 5 hours,Always,No,Rarely,I don’t cope well,Very Poor
+2026/03/29 7:55:57 AM GMT+5:30,23,Prefer not to say,Always,Never,Always,Sometimes,Sometimes,Rarely,No,07-Aug,Sometimes,Yes,Never,Avoiding problems,3
+2026/03/29 7:55:57 AM GMT+5:30,31,Male,Always,Always,Always,Often,Often,Always,Often,Less than 5 hours,Always,No,Rarely,I don’t cope well,Very Poor
+2026/03/29 7:55:57 AM GMT+5:30,26,Non - binary,Always,Always,Always,Often,Often,Always,Often,Less than 5 hours,Always,No,Rarely,I don’t cope well,Very Poor
+2026/03/29 7:55:57 AM GMT+5:30,60,Male,Sometimes,Sometimes,Sometimes,Sometimes,Always,Sometimes,No,Less than 5,Sometimes,Sometimes,Daily,Avoiding problems,3
+2026/03/29 7:55:57 AM GMT+5:30,26,Female,Always,Sometimes,Never,Sometimes,Always,Sometimes,Sometimes,07-Aug,Often,Yes,Weekly,Sleeping,3
+2026/03/29 7:55:57 AM GMT+5:30,50,Prefer not to say,Often,Often,Sometimes,Yes,Sometimes,Often,Yes,05-Jun,Often,Yes,Daily,Talking to someone,3
+2026/03/29 7:55:57 AM GMT+5:30,35,Female,Always,Always,Always,Often,Often,Always,Often,Less than 5 hours,Always,No,Rarely,I don’t cope well,Very Poor
+2026/03/29 7:55:57 AM GMT+5:30,56,Male,Sometimes,Sometimes,Sometimes,No,Sometimes,Often,Sometimes,07-Aug,Always,Yes,Daily,Other,2
+2026/03/29 7:55:57 AM GMT+5:30,19,Female,Never,Always,Always,Yes,Sometimes,Sometimes,Sometimes,More than 8,Often,Yes,Rarely,Other,3
+2026/03/29 7:55:57 AM GMT+5:30,48,Prefer not to say,Never,Always,Always,Sometimes,Always,Often,No,07-Aug,Sometimes,Yes,Never,Music/Entertainment,4
+2026/03/29 7:55:57 AM GMT+5:30,28,Female,Often,Sometimes,Always,Yes,Always,Often,Yes,05-Jun,Often,Sometimes,Weekly,Music/Entertainment,4
+2026/03/29 7:55:58 AM GMT+5:30,36,Female,Sometimes,Never,Never,Yes,Often,Always,Sometimes,07-Aug,Sometimes,Yes,Weekly,Sleeping,3
+2026/03/29 7:55:58 AM GMT+5:30,20,Male,Often,Never,Often,Yes,Sometimes,Always,Yes,07-Aug,Never,Yes,Rarely,Sleeping,1
+2026/03/29 7:55:58 AM GMT+5:30,22,Male,Sometimes,Often,Never,Yes,Never,Always,Yes,More than 8,Always,No,Daily,Talking to someone,3
+2026/03/29 7:55:58 AM GMT+5:30,48,Male,Often,Often,Sometimes,No,Sometimes,Sometimes,No,07-Aug,Sometimes,Sometimes,Weekly,Sleeping,3
+2026/03/29 7:55:58 AM GMT+5:30,46,Female,Always,Always,Always,Often,Often,Always,Often,Less than 5 hours,Always,No,Rarely,I don’t cope well,Very Poor
+2026/03/29 7:55:58 AM GMT+5:30,38,Male,Sometimes,Often,Sometimes,Sometimes,Always,Always,No,07-Aug,Often,Sometimes,Weekly,Avoiding problems,4
+2026/03/29 7:55:58 AM GMT+5:30,25,Male,Always,Always,Always,Often,Often,Always,Often,Less than 5 hours,Always,No,Rarely,I don’t cope well,Very Poor
+2026/03/29 7:55:58 AM GMT+5:30,42,Female,Often,Sometimes,Sometimes,Sometimes,Sometimes,Sometimes,No,Less than 5,Often,Yes,Rarely,Exercise,4
+2026/03/29 7:55:58 AM GMT+5:30,31,Male,Sometimes,Often,Sometimes,Sometimes,Sometimes,Often,Sometimes,07-Aug,Sometimes,Sometimes,Daily,Avoiding problems,4
+2026/03/29 7:55:58 AM GMT+5:30,28,Male,Never,Sometimes,Never,Sometimes,Never,Often,No,07-Aug,Often,Sometimes,Daily,Avoiding problems,1
+2026/03/29 7:55:58 AM GMT+5:30,18,Male,Sometimes,Always,Often,No,Often,Always,Yes,07-Aug,Never,Sometimes,Daily,Avoiding problems,3
+2026/03/29 7:55:58 AM GMT+5:30,54,Female,Often,Always,Often,No,Always,Sometimes,No,07-Aug,Often,Sometimes,Daily,Talking to someone,2
+2026/03/29 7:55:58 AM GMT+5:30,29,Female,Sometimes,Often,Often,Yes,Sometimes,Often,Yes,07-Aug,Sometimes,Yes,Weekly,Exercise,3
+2026/03/29 7:55:58 AM GMT+5:30,27,Female,Often,Sometimes,Always,Yes,Often,Sometimes,No,07-Aug,Often,No,Daily,Avoiding problems,5
+2026/03/29 7:55:58 AM GMT+5:30,59,Prefer not to say,Always,Sometimes,Never,Yes,Sometimes,Sometimes,Yes,More than 8,Sometimes,Yes,Never,Talking to someone,2
+2026/03/29 7:55:58 AM GMT+5:30,27,Prefer not to say,Always,Sometimes,Never,Yes,Often,Often,Yes,More than 8,Sometimes,No,Rarely,Sleeping,3
+2026/03/29 7:55:58 AM GMT+5:30,21,Female,Always,Often,Often,No,Often,Sometimes,No,Less than 5,Sometimes,Yes,Daily,Sleeping,2
+2026/03/29 7:55:58 AM GMT+5:30,28,Prefer not to say,Sometimes,Often,Sometimes,No,Often,Often,No,07-Aug,Often,Sometimes,Weekly,Music/Entertainment,3
+2026/03/29 7:55:58 AM GMT+5:30,40,Male,Sometimes,Never,Always,Yes,Sometimes,Often,No,Less than 5,Always,No,Daily,Talking to someone,4
+2026/03/29 7:55:58 AM GMT+5:30,18,Female,Never,Sometimes,Sometimes,No,Always,Rarely,Sometimes,07-Aug,Sometimes,Yes,Rarely,Avoiding problems,3
+2026/03/29 7:55:59 AM GMT+5:30,24,Female,Always,Always,Always,Often,Often,Always,Often,Less than 5 hours,Always,No,Rarely,I don’t cope well,Very Poor
+2026/03/29 7:55:59 AM GMT+5:30,28,Female,Sometimes,Always,Sometimes,Sometimes,Always,Always,Yes,More than 8,Sometimes,Yes,Rarely,Avoiding problems,4
+2026/03/29 7:55:59 AM GMT+5:30,39,Male,Sometimes,Always,Sometimes,Sometimes,Often,Rarely,No,Less than 5,Often,Yes,Never,Other,3
+2026/03/29 7:55:59 AM GMT+5:30,27,Non - binary,Never,Often,Often,Sometimes,Always,Always,No,07-Aug,Often,Sometimes,Rarely,Talking to someone,3
+2026/03/29 7:55:59 AM GMT+5:30,23,Female,Often,Sometimes,Never,No,Often,Sometimes,No,05-Jun,Sometimes,Yes,Weekly,Other,3
+2026/03/29 7:55:59 AM GMT+5:30,20,Female,Sometimes,Often,Sometimes,No,Often,Often,Sometimes,07-Aug,Always,Yes,Weekly,Other,4
+2026/03/29 7:55:59 AM GMT+5:30,25,Male,Always,Always,Always,Often,Often,Always,Often,Less than 5 hours,Always,No,Rarely,I don’t cope well,Very Poor
+2026/03/29 7:55:59 AM GMT+5:30,37,Male,Sometimes,Sometimes,Never,Sometimes,Often,Always,No,05-Jun,Always,Yes,Daily,Music/Entertainment,2
+2026/03/29 7:55:59 AM GMT+5:30,19,Male,Sometimes,Often,Never,No,Often,Often,Yes,07-Aug,Often,Yes,Rarely,Sleeping,3
+2026/03/29 7:55:59 AM GMT+5:30,19,Female,Sometimes,Always,Sometimes,Sometimes,Sometimes,Sometimes,Sometimes,Less than 5,Sometimes,Yes,Weekly,Avoiding problems,4
+2026/03/29 7:55:59 AM GMT+5:30,55,Female,Sometimes,Often,Sometimes,No,Sometimes,Rarely,No,07-Aug,Sometimes,No,Weekly,Talking to someone,4
+2026/03/29 7:55:59 AM GMT+5:30,29,Male,Always,Sometimes,Never,Yes,Sometimes,Always,No,07-Aug,Always,No,Weekly,Avoiding problems,3
+2026/03/29 7:55:59 AM GMT+5:30,50,Prefer not to say,Sometimes,Often,Sometimes,No,Often,Often,Yes,07-Aug,Sometimes,Sometimes,Weekly,Other,4
+2026/03/29 7:55:59 AM GMT+5:30,25,Prefer not to say,Sometimes,Often,Sometimes,Sometimes,Often,Sometimes,Sometimes,More than 8,Always,Yes,Weekly,Talking to someone,2
+2026/03/29 7:55:59 AM GMT+5:30,46,Male,Often,Sometimes,Sometimes,Yes,Sometimes,Sometimes,Yes,05-Jun,Always,Yes,Weekly,Sleeping,3
+2026/03/29 7:55:59 AM GMT+5:30,28,Female,Always,Always,Always,Often,Often,Always,Often,Less than 5 hours,Always,No,Rarely,I don’t cope well,Very Poor
+2026/03/29 7:55:59 AM GMT+5:30,38,Male,Always,Always,Always,Often,Often,Always,Often,Less than 5 hours,Always,No,Rarely,I don’t cope well,Very Poor
+2026/03/29 7:55:59 AM GMT+5:30,54,Prefer not to say,Sometimes,Never,Never,No,Often,Often,Yes,05-Jun,Often,Sometimes,Rarely,Talking to someone,3
+2026/03/29 7:55:59 AM GMT+5:30,28,Male,Always,Sometimes,Always,Yes,Sometimes,Often,Sometimes,07-Aug,Sometimes,Yes,Weekly,Other,5
+2026/03/29 7:56:00 AM GMT+5:30,23,Male,Always,Often,Never,Yes,Sometimes,Always,Yes,07-Aug,Often,No,Daily,Sleeping,3
